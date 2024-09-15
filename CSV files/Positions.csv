@@ -1,0 +1,2001 @@
+PositionID,CompanyID,PositionTitle,DepartmentID,SalaryGrade
+1,1,"Journalist, broadcasting",1,E
+2,1,"Designer, fashion/clothing",1,D
+3,1,Patent examiner,2,E
+4,1,Aid worker,2,B
+5,1,Hydrogeologist,3,E
+6,1,"Editor, magazine features",3,A
+7,1,Technical brewer,4,A
+8,1,"Designer, graphic",4,B
+9,1,Careers information officer,5,D
+10,1,"Pharmacist, community",5,E
+11,1,Science writer,6,D
+12,1,Production manager,6,D
+13,1,Social researcher,7,E
+14,1,Corporate investment banker,7,A
+15,1,Petroleum engineer,8,C
+16,1,"Librarian, academic",8,E
+17,1,Consulting civil engineer,9,E
+18,1,"Surveyor, planning and development",9,E
+19,1,Media buyer,10,E
+20,1,"Therapist, art",10,B
+21,2,Dispensing optician,11,A
+22,2,Charity fundraiser,11,A
+23,2,Chief Financial Officer,12,E
+24,2,Financial manager,12,B
+25,2,"Clinical scientist, histocompatibility and immunogenetics",13,B
+26,2,"Engineer, electrical",13,B
+27,2,Purchasing manager,14,D
+28,2,"Engineer, agricultural",14,D
+29,2,Air broker,15,C
+30,2,Mudlogger,15,A
+31,2,Landscape architect,16,C
+32,2,"Geneticist, molecular",16,C
+33,2,Marine scientist,17,C
+34,2,Therapeutic radiographer,17,C
+35,2,Forensic psychologist,18,B
+36,2,Probation officer,18,B
+37,2,"Scientist, physiological",19,D
+38,2,Arboriculturist,19,A
+39,2,Insurance underwriter,20,A
+40,2,Product designer,20,B
+41,3,Police officer,21,C
+42,3,Environmental health practitioner,21,A
+43,3,Public relations account executive,22,D
+44,3,"Administrator, local government",22,B
+45,3,"Scientist, research (maths)",23,E
+46,3,"Therapist, occupational",23,A
+47,3,Occupational hygienist,24,A
+48,3,Leisure centre manager,24,D
+49,3,"Engineer, site",25,B
+50,3,"Surveyor, quantity",25,D
+51,3,Magazine journalist,26,C
+52,3,Hospital doctor,26,A
+53,3,"Designer, textile",27,C
+54,3,"Editor, film/video",27,D
+55,3,Health visitor,28,C
+56,3,"Engineer, communications",28,D
+57,3,Commissioning editor,29,E
+58,3,Management consultant,29,D
+59,3,Multimedia specialist,30,E
+60,3,"Designer, fashion/clothing",30,D
+61,4,Immigration officer,31,E
+62,4,Freight forwarder,31,A
+63,4,Writer,32,A
+64,4,Diplomatic Services operational officer,32,D
+65,4,"Optician, dispensing",33,C
+66,4,Air broker,33,B
+67,4,Careers adviser,34,C
+68,4,Electronics engineer,34,A
+69,4,Newspaper journalist,35,C
+70,4,Paramedic,35,E
+71,4,Careers information officer,36,E
+72,4,Camera operator,36,D
+73,4,"Teacher, early years/pre",37,B
+74,4,Fisheries officer,37,C
+75,4,Social worker,38,B
+76,4,Broadcast journalist,38,B
+77,4,"Engineer, technical sales",39,C
+78,4,Jewellery designer,39,B
+79,4,Production manager,40,B
+80,4,"Surveyor, insurance",40,D
+81,5,Translator,41,B
+82,5,Chief Technology Officer,41,D
+83,5,"Doctor, general practice",42,A
+84,5,"Designer, jewellery",42,E
+85,5,Trading standards officer,43,C
+86,5,Theatre stage manager,43,E
+87,5,Translator,44,E
+88,5,Art therapist,44,D
+89,5,Primary school teacher,45,A
+90,5,Gaffer,45,A
+91,5,"Engineer, production",46,C
+92,5,Software engineer,46,C
+93,5,"Biochemist, clinical",47,B
+94,5,"Research officer, political party",47,A
+95,5,"Buyer, retail",48,B
+96,5,Adult guidance worker,48,E
+97,5,Art therapist,49,A
+98,5,"Therapist, music",49,E
+99,5,Emergency planning/management officer,50,E
+100,5,Dramatherapist,50,A
+101,6,"Research officer, government",51,C
+102,6,"Engineer, communications",51,D
+103,6,"Scientist, research (life sciences)",52,B
+104,6,Horticultural therapist,52,E
+105,6,"Teacher, special educational needs",53,E
+106,6,Tax inspector,53,C
+107,6,Chartered loss adjuster,54,D
+108,6,Dealer,54,B
+109,6,Microbiologist,55,E
+110,6,Sports administrator,55,A
+111,6,Academic librarian,56,A
+112,6,Web designer,56,A
+113,6,"Lecturer, higher education",57,E
+114,6,Insurance claims handler,57,D
+115,6,Sports coach,58,A
+116,6,Equities trader,58,A
+117,6,Telecommunications researcher,59,C
+118,6,Industrial buyer,59,C
+119,6,"Administrator, charities/voluntary organisations",60,A
+120,6,"Teacher, secondary school",60,C
+121,7,Passenger transport manager,61,E
+122,7,Manufacturing systems engineer,61,D
+123,7,Building services engineer,62,B
+124,7,Land/geomatics surveyor,62,A
+125,7,Health service manager,63,A
+126,7,Logistics and distribution manager,63,D
+127,7,Chiropodist,64,E
+128,7,Hydrologist,64,A
+129,7,"Surveyor, rural practice",65,C
+130,7,Database administrator,65,D
+131,7,Management consultant,66,C
+132,7,Arboriculturist,66,A
+133,7,"Administrator, education",67,A
+134,7,"Therapist, speech and language",67,B
+135,7,Oncologist,68,D
+136,7,Actuary,68,C
+137,7,Podiatrist,69,E
+138,7,Facilities manager,69,B
+139,7,Planning and development surveyor,70,E
+140,7,"Teacher, early years/pre",70,D
+141,8,"Psychologist, occupational",71,B
+142,8,Hospital doctor,71,B
+143,8,"Accountant, chartered management",72,D
+144,8,Economist,72,D
+145,8,"Teacher, primary school",73,C
+146,8,"Programme researcher, broadcasting/film/video",73,E
+147,8,Soil scientist,74,A
+148,8,Broadcast journalist,74,E
+149,8,"Administrator, education",75,D
+150,8,Armed forces logistics/support/administrative officer,75,C
+151,8,"Chemist, analytical",76,C
+152,8,Conference centre manager,76,B
+153,8,"Nurse, learning disability",77,E
+154,8,Music therapist,77,E
+155,8,"Therapist, sports",78,E
+156,8,Economist,78,D
+157,8,English as a second language teacher,79,E
+158,8,Sports therapist,79,B
+159,8,Clinical cytogeneticist,80,C
+160,8,Air traffic controller,80,C
+161,9,Architect,81,B
+162,9,"Nurse, mental health",81,A
+163,9,"Optician, dispensing",82,E
+164,9,Heritage manager,82,A
+165,9,Dramatherapist,83,C
+166,9,Museum/gallery conservator,83,C
+167,9,Agricultural engineer,84,E
+168,9,"Investment banker, operational",84,A
+169,9,Petroleum engineer,85,D
+170,9,"Scientist, physiological",85,A
+171,9,"Engineer, control and instrumentation",86,A
+172,9,"Scientist, audiological",86,D
+173,9,Market researcher,87,D
+174,9,"Therapist, occupational",87,E
+175,9,Financial trader,88,B
+176,9,Amenity horticulturist,88,B
+177,9,Pathologist,89,C
+178,9,"Research officer, government",89,D
+179,9,Scientific laboratory technician,90,B
+180,9,Art gallery manager,90,C
+181,10,"Engineer, communications",91,D
+182,10,Lexicographer,91,C
+183,10,"Programmer, systems",92,E
+184,10,Educational psychologist,92,E
+185,10,Tax inspector,93,E
+186,10,"Engineer, chemical",93,B
+187,10,"Engineer, petroleum",94,A
+188,10,Animal technologist,94,B
+189,10,"Engineer, communications",95,D
+190,10,Communications engineer,95,B
+191,10,Hospital doctor,96,B
+192,10,Jewellery designer,96,B
+193,10,Landscape architect,97,A
+194,10,Industrial/product designer,97,D
+195,10,Cytogeneticist,98,B
+196,10,Education administrator,98,B
+197,10,Technical author,99,E
+198,10,Pathologist,99,E
+199,10,Health and safety adviser,100,D
+200,10,Automotive engineer,100,A
+201,11,Museum/gallery exhibitions officer,101,D
+202,11,Clinical psychologist,101,A
+203,11,"Teacher, adult education",102,A
+204,11,Research scientist (medical),102,E
+205,11,"Designer, textile",103,C
+206,11,Museum/gallery conservator,103,C
+207,11,Environmental education officer,104,A
+208,11,Outdoor activities/education manager,104,A
+209,11,Naval architect,105,A
+210,11,"Conservation officer, historic buildings",105,C
+211,11,"Surveyor, minerals",106,B
+212,11,Probation officer,106,B
+213,11,Writer,107,A
+214,11,Medical laboratory scientific officer,107,D
+215,11,Armed forces training and education officer,108,D
+216,11,Warehouse manager,108,C
+217,11,"Scientist, water quality",109,A
+218,11,Estate agent,109,D
+219,11,"Engineer, technical sales",110,A
+220,11,Scientific laboratory technician,110,E
+221,12,Office manager,111,E
+222,12,"Radiographer, diagnostic",111,C
+223,12,Environmental manager,112,D
+224,12,"Teacher, music",112,E
+225,12,Careers information officer,113,C
+226,12,"Sound technician, broadcasting/film/video",113,C
+227,12,Clinical psychologist,114,A
+228,12,"Designer, ceramics/pottery",114,D
+229,12,Diagnostic radiographer,115,B
+230,12,Immunologist,115,C
+231,12,Air broker,116,A
+232,12,"Investment banker, operational",116,B
+233,12,Clothing/textile technologist,117,B
+234,12,"Conservator, museum/gallery",117,B
+235,12,Water quality scientist,118,C
+236,12,"Secretary, company",118,D
+237,12,Water engineer,119,D
+238,12,Education administrator,119,E
+239,12,Sports coach,120,C
+240,12,Pension scheme manager,120,B
+241,13,Furniture conservator/restorer,121,A
+242,13,"Administrator, Civil Service",121,B
+243,13,Medical technical officer,122,B
+244,13,Corporate investment banker,122,E
+245,13,Armed forces operational officer,123,E
+246,13,"Scientist, biomedical",123,C
+247,13,"Engineer, technical sales",124,E
+248,13,"Producer, television/film/video",124,E
+249,13,Video editor,125,D
+250,13,Geophysicist/field seismologist,125,E
+251,13,Pension scheme manager,126,D
+252,13,Best boy,126,E
+253,13,Fisheries officer,127,C
+254,13,Theme park manager,127,E
+255,13,Geographical information systems officer,128,A
+256,13,"Engineer, automotive",128,C
+257,13,Leisure centre manager,129,B
+258,13,Civil Service fast streamer,129,B
+259,13,"Geologist, wellsite",130,C
+260,13,Regulatory affairs officer,130,E
+261,14,Meteorologist,131,B
+262,14,Hospital doctor,131,C
+263,14,Barrister,132,A
+264,14,Geochemist,132,E
+265,14,Clinical cytogeneticist,133,E
+266,14,Mechanical engineer,133,A
+267,14,Higher education careers adviser,134,D
+268,14,"Engineer, broadcasting (operations)",134,A
+269,14,"Librarian, public",135,A
+270,14,"Exhibitions officer, museum/gallery",135,C
+271,14,Financial adviser,136,B
+272,14,"Engineer, communications",136,A
+273,14,Emergency planning/management officer,137,D
+274,14,Multimedia specialist,137,B
+275,14,Community development worker,138,D
+276,14,Social researcher,138,A
+277,14,Food technologist,139,E
+278,14,Dispensing optician,139,D
+279,14,Logistics and distribution manager,140,D
+280,14,"Nurse, adult",140,D
+281,15,Aid worker,141,E
+282,15,"Social research officer, government",141,B
+283,15,Armed forces logistics/support/administrative officer,142,C
+284,15,Social researcher,142,B
+285,15,Politician's assistant,143,A
+286,15,Clinical molecular geneticist,143,B
+287,15,Forest/woodland manager,144,A
+288,15,"Engineer, control and instrumentation",144,C
+289,15,Sales promotion account executive,145,B
+290,15,Hydrologist,145,B
+291,15,Chartered certified accountant,146,D
+292,15,Civil Service fast streamer,146,A
+293,15,"Restaurant manager, fast food",147,D
+294,15,"Pharmacist, hospital",147,E
+295,15,Surgeon,148,E
+296,15,Manufacturing engineer,148,B
+297,15,Editorial assistant,149,C
+298,15,Data processing manager,149,C
+299,15,Community development worker,150,B
+300,15,Holiday representative,150,C
+301,16,Hospital pharmacist,151,C
+302,16,Ecologist,151,B
+303,16,"Radiographer, diagnostic",152,E
+304,16,Hospital pharmacist,152,E
+305,16,Firefighter,153,A
+306,16,Solicitor,153,C
+307,16,Telecommunications researcher,154,D
+308,16,Financial adviser,154,B
+309,16,Careers adviser,155,A
+310,16,Purchasing manager,155,C
+311,16,"Engineer, automotive",156,A
+312,16,Materials engineer,156,E
+313,16,Physiological scientist,157,A
+314,16,Geophysical data processor,157,E
+315,16,Land,158,D
+316,16,"Civil engineer, contracting",158,C
+317,16,Counselling psychologist,159,A
+318,16,"Psychologist, educational",159,C
+319,16,Make,160,E
+320,16,Risk manager,160,C
+321,17,"Conservation officer, nature",161,C
+322,17,Biomedical scientist,161,E
+323,17,Psychiatrist,162,C
+324,17,Oncologist,162,B
+325,17,Race relations officer,163,D
+326,17,"Investment banker, operational",163,C
+327,17,Travel agency manager,164,B
+328,17,Insurance underwriter,164,C
+329,17,Radio broadcast assistant,165,C
+330,17,Counsellor,165,E
+331,17,Herpetologist,166,E
+332,17,Armed forces technical officer,166,A
+333,17,Paediatric nurse,167,D
+334,17,Brewing technologist,167,C
+335,17,"Psychologist, educational",168,A
+336,17,"Therapist, horticultural",168,B
+337,17,"Editor, film/video",169,D
+338,17,Broadcast journalist,169,C
+339,17,"Clinical scientist, histocompatibility and immunogenetics",170,D
+340,17,"Nurse, mental health",170,B
+341,18,Exercise physiologist,171,E
+342,18,"Horticulturist, amenity",171,A
+343,18,Clinical biochemist,172,A
+344,18,"Physicist, medical",172,A
+345,18,Television production assistant,173,B
+346,18,Hotel manager,173,E
+347,18,Special educational needs teacher,174,A
+348,18,Airline pilot,174,A
+349,18,Systems developer,175,B
+350,18,Artist,175,B
+351,18,Operations geologist,176,A
+352,18,Passenger transport manager,176,A
+353,18,"Scientist, research (physical sciences)",177,E
+354,18,Mental health nurse,177,E
+355,18,Ergonomist,178,A
+356,18,Financial trader,178,B
+357,18,"Designer, textile",179,D
+358,18,Clinical cytogeneticist,179,A
+359,18,Commercial horticulturist,180,A
+360,18,Social worker,180,A
+361,19,Trade union research officer,181,C
+362,19,Dance movement psychotherapist,181,E
+363,19,Housing manager/officer,182,E
+364,19,Materials engineer,182,C
+365,19,"Radiographer, diagnostic",183,D
+366,19,Sales promotion account executive,183,C
+367,19,Fine artist,184,E
+368,19,Podiatrist,184,C
+369,19,Database administrator,185,A
+370,19,"Therapist, sports",185,C
+371,19,Tour manager,186,E
+372,19,"Embryologist, clinical",186,C
+373,19,Licensed conveyancer,187,D
+374,19,"Education officer, community",187,E
+375,19,Advertising copywriter,188,A
+376,19,"Lecturer, higher education",188,E
+377,19,Dealer,189,E
+378,19,"Civil engineer, contracting",189,E
+379,19,Scientific laboratory technician,190,D
+380,19,International aid/development worker,190,E
+381,20,Trading standards officer,191,A
+382,20,Firefighter,191,B
+383,20,"Civil engineer, consulting",192,D
+384,20,"Surveyor, planning and development",192,A
+385,20,Civil Service administrator,193,D
+386,20,Publishing rights manager,193,C
+387,20,"Scientist, research (medical)",194,C
+388,20,Volunteer coordinator,194,D
+389,20,"Research officer, political party",195,A
+390,20,Historic buildings inspector/conservation officer,195,C
+391,20,Legal executive,196,A
+392,20,Warehouse manager,196,E
+393,20,Chemical engineer,197,C
+394,20,"Engineer, manufacturing",197,A
+395,20,Architectural technologist,198,B
+396,20,Operations geologist,198,C
+397,20,Futures trader,199,E
+398,20,Science writer,199,B
+399,20,"Librarian, public",200,C
+400,20,English as a second language teacher,200,B
+401,21,Theatre stage manager,201,C
+402,21,"Librarian, public",201,A
+403,21,Gaffer,202,C
+404,21,Brewing technologist,202,A
+405,21,"Production assistant, television",203,E
+406,21,Conference centre manager,203,C
+407,21,Arboriculturist,204,D
+408,21,Chief Strategy Officer,204,C
+409,21,Print production planner,205,E
+410,21,Health visitor,205,B
+411,21,"Lecturer, higher education",206,D
+412,21,Forest/woodland manager,206,B
+413,21,"Producer, radio",207,E
+414,21,Adult nurse,207,D
+415,21,Lobbyist,208,C
+416,21,IT technical support officer,208,A
+417,21,Financial manager,209,B
+418,21,Manufacturing engineer,209,E
+419,21,Medical illustrator,210,B
+420,21,Mechanical engineer,210,E
+421,22,Mining engineer,211,D
+422,22,"Engineer, drilling",211,B
+423,22,Adult guidance worker,212,A
+424,22,"Nurse, mental health",212,E
+425,22,Telecommunications researcher,213,B
+426,22,Solicitor,213,B
+427,22,Insurance account manager,214,A
+428,22,Oncologist,214,B
+429,22,Toxicologist,215,D
+430,22,Advertising copywriter,215,A
+431,22,Sports administrator,216,E
+432,22,Commissioning editor,216,E
+433,22,Interior and spatial designer,217,D
+434,22,Aeronautical engineer,217,D
+435,22,Politician's assistant,218,B
+436,22,Customer service manager,218,A
+437,22,Chief Executive Officer,219,E
+438,22,Comptroller,219,A
+439,22,Arts administrator,220,D
+440,22,"Surveyor, commercial/residential",220,A
+441,23,"Horticulturist, amenity",221,C
+442,23,"Engineer, chemical",221,D
+443,23,Medical illustrator,222,E
+444,23,Financial manager,222,E
+445,23,Systems analyst,223,A
+446,23,Charity fundraiser,223,C
+447,23,Environmental health practitioner,224,A
+448,23,Police officer,224,D
+449,23,"Investment banker, corporate",225,E
+450,23,Historic buildings inspector/conservation officer,225,C
+451,23,Advertising art director,226,E
+452,23,Bookseller,226,B
+453,23,Psychiatrist,227,A
+454,23,Haematologist,227,B
+455,23,Museum/gallery curator,228,C
+456,23,"Engineer, production",228,B
+457,23,"Designer, multimedia",229,C
+458,23,Production manager,229,B
+459,23,"Administrator, arts",230,A
+460,23,"Designer, industrial/product",230,B
+461,24,"Accountant, chartered",231,E
+462,24,Dietitian,231,C
+463,24,"Teacher, music",232,C
+464,24,Artist,232,E
+465,24,Chief Executive Officer,233,B
+466,24,Merchant navy officer,233,E
+467,24,Audiological scientist,234,E
+468,24,Environmental manager,234,E
+469,24,Equities trader,235,B
+470,24,Research scientist (maths),235,D
+471,24,Freight forwarder,236,E
+472,24,Insurance underwriter,236,E
+473,24,Systems developer,237,B
+474,24,Minerals surveyor,237,D
+475,24,Software engineer,238,E
+476,24,Interior and spatial designer,238,B
+477,24,Research scientist (medical),239,B
+478,24,Warehouse manager,239,A
+479,24,Risk analyst,240,D
+480,24,Arts administrator,240,B
+481,25,Financial planner,241,D
+482,25,"Conservator, furniture",241,C
+483,25,"Engineer, production",242,A
+484,25,Exhibition designer,242,A
+485,25,Chief Technology Officer,243,E
+486,25,Counselling psychologist,243,A
+487,25,Claims inspector/assessor,244,E
+488,25,Architectural technologist,244,B
+489,25,Tourism officer,245,C
+490,25,"Surveyor, minerals",245,C
+491,25,"Chemist, analytical",246,D
+492,25,Therapeutic radiographer,246,C
+493,25,Volunteer coordinator,247,B
+494,25,Politician's assistant,247,B
+495,25,Professor Emeritus,248,C
+496,25,"Production assistant, television",248,B
+497,25,Nutritional therapist,249,A
+498,25,"Administrator, education",249,B
+499,25,Warehouse manager,250,B
+500,25,"Scientist, research (physical sciences)",250,C
+501,26,"Investment banker, operational",251,E
+502,26,"Scientist, research (maths)",251,B
+503,26,"Engineer, materials",252,B
+504,26,Computer games developer,252,D
+505,26,Tree surgeon,253,B
+506,26,Hydrographic surveyor,253,D
+507,26,"Surveyor, building",254,E
+508,26,Hospital doctor,254,E
+509,26,Operational investment banker,255,B
+510,26,"Therapist, nutritional",255,D
+511,26,"Scientist, research (maths)",256,E
+512,26,Arts administrator,256,E
+513,26,Proofreader,257,E
+514,26,"Teacher, English as a foreign language",257,A
+515,26,Tax adviser,258,D
+516,26,Firefighter,258,D
+517,26,"Nurse, learning disability",259,C
+518,26,"Geneticist, molecular",259,E
+519,26,"Surveyor, hydrographic",260,A
+520,26,Information systems manager,260,A
+521,27,Community arts worker,261,B
+522,27,Interior and spatial designer,261,E
+523,27,"Teacher, secondary school",262,C
+524,27,Freight forwarder,262,A
+525,27,"Scientist, audiological",263,C
+526,27,"Geologist, engineering",263,C
+527,27,Production manager,264,D
+528,27,Product manager,264,A
+529,27,"Civil engineer, contracting",265,E
+530,27,Theatre manager,265,A
+531,27,Insurance risk surveyor,266,E
+532,27,IT trainer,266,D
+533,27,Camera operator,267,E
+534,27,Press photographer,267,A
+535,27,Licensed conveyancer,268,A
+536,27,Accounting technician,268,D
+537,27,Clinical embryologist,269,D
+538,27,Land/geomatics surveyor,269,C
+539,27,Theatre stage manager,270,B
+540,27,Civil Service fast streamer,270,C
+541,28,"Surveyor, hydrographic",271,B
+542,28,"Engineer, chemical",271,D
+543,28,"Teacher, English as a foreign language",272,D
+544,28,"Accountant, chartered public finance",272,A
+545,28,Adult nurse,273,C
+546,28,Adult nurse,273,D
+547,28,Insurance claims handler,274,D
+548,28,"Psychologist, counselling",274,C
+549,28,Clinical molecular geneticist,275,B
+550,28,"Scientist, forensic",275,A
+551,28,Advertising account planner,276,B
+552,28,Restaurant manager,276,C
+553,28,Fast food restaurant manager,277,B
+554,28,Graphic designer,277,E
+555,28,"Scientist, biomedical",278,D
+556,28,Illustrator,278,D
+557,28,"Geneticist, molecular",279,C
+558,28,"Engineer, control and instrumentation",279,A
+559,28,Operational investment banker,280,C
+560,28,Toxicologist,280,B
+561,29,Product manager,281,C
+562,29,Publishing rights manager,281,D
+563,29,Information systems manager,282,A
+564,29,Lawyer,282,C
+565,29,"Administrator, local government",283,D
+566,29,Technical author,283,D
+567,29,Toxicologist,284,D
+568,29,Tourist information centre manager,284,E
+569,29,Hospital pharmacist,285,C
+570,29,Clinical biochemist,285,B
+571,29,Licensed conveyancer,286,D
+572,29,"Chemist, analytical",286,A
+573,29,"Designer, exhibition/display",287,C
+574,29,Musician,287,C
+575,29,"Programmer, multimedia",288,D
+576,29,Garment/textile technologist,288,E
+577,29,Magazine journalist,289,A
+578,29,Health promotion specialist,289,E
+579,29,Environmental consultant,290,E
+580,29,"Education officer, museum",290,E
+581,30,Structural engineer,291,E
+582,30,"Programme researcher, broadcasting/film/video",291,E
+583,30,"Psychologist, prison and probation services",292,B
+584,30,Futures trader,292,D
+585,30,Publishing copy,293,B
+586,30,Chief Marketing Officer,293,E
+587,30,Charity officer,294,B
+588,30,Drilling engineer,294,D
+589,30,Surgeon,295,E
+590,30,Associate Professor,295,E
+591,30,Food technologist,296,A
+592,30,Media buyer,296,A
+593,30,Learning mentor,297,A
+594,30,Media buyer,297,B
+595,30,Barista,298,B
+596,30,Music tutor,298,C
+597,30,Licensed conveyancer,299,B
+598,30,Ecologist,299,C
+599,30,Higher education careers adviser,300,A
+600,30,Publishing copy,300,A
+601,31,Armed forces operational officer,301,C
+602,31,"Sound technician, broadcasting/film/video",301,E
+603,31,Retail merchandiser,302,C
+604,31,Immunologist,302,D
+605,31,"Investment banker, operational",303,C
+606,31,Geophysicist/field seismologist,303,E
+607,31,Web designer,304,E
+608,31,IT consultant,304,A
+609,31,Cabin crew,305,E
+610,31,Magazine journalist,305,E
+611,31,Advertising account planner,306,A
+612,31,"Production assistant, radio",306,E
+613,31,Writer,307,C
+614,31,Early years teacher,307,C
+615,31,Mechanical engineer,308,E
+616,31,Warden/ranger,308,A
+617,31,Hospital pharmacist,309,D
+618,31,"Geneticist, molecular",309,C
+619,31,Recycling officer,310,D
+620,31,Accommodation manager,310,E
+621,32,Product designer,311,E
+622,32,"Designer, industrial/product",311,A
+623,32,Financial planner,312,B
+624,32,"Loss adjuster, chartered",312,E
+625,32,"Exhibitions officer, museum/gallery",313,C
+626,32,Clothing/textile technologist,313,B
+627,32,Art gallery manager,314,A
+628,32,Museum/gallery conservator,314,B
+629,32,"Producer, television/film/video",315,D
+630,32,Multimedia specialist,315,C
+631,32,Tour manager,316,D
+632,32,Animator,316,E
+633,32,"Journalist, broadcasting",317,C
+634,32,Agricultural engineer,317,A
+635,32,"Administrator, charities/voluntary organisations",318,B
+636,32,Psychiatric nurse,318,C
+637,32,Fitness centre manager,319,B
+638,32,"Engineer, petroleum",319,C
+639,32,"Editor, commissioning",320,E
+640,32,"Psychologist, occupational",320,D
+641,33,"Civil engineer, contracting",321,E
+642,33,Office manager,321,C
+643,33,"Surveyor, planning and development",322,B
+644,33,Banker,322,D
+645,33,"Geneticist, molecular",323,B
+646,33,Civil Service fast streamer,323,A
+647,33,"Copywriter, advertising",324,B
+648,33,Barrister,324,B
+649,33,Administrator,325,C
+650,33,Furniture designer,325,D
+651,33,Pharmacologist,326,E
+652,33,"Scientist, water quality",326,C
+653,33,Telecommunications researcher,327,D
+654,33,Higher education careers adviser,327,A
+655,33,Broadcast journalist,328,A
+656,33,"Lecturer, further education",328,B
+657,33,Race relations officer,329,B
+658,33,Television/film/video producer,329,D
+659,33,Lexicographer,330,B
+660,33,Geochemist,330,D
+661,34,"Lecturer, higher education",331,D
+662,34,Exercise physiologist,331,D
+663,34,Art gallery manager,332,A
+664,34,"Scientist, product/process development",332,C
+665,34,Field seismologist,333,C
+666,34,Private music teacher,333,C
+667,34,"Scientist, research (medical)",334,D
+668,34,Adult nurse,334,D
+669,34,Museum/gallery exhibitions officer,335,D
+670,34,"Investment banker, operational",335,D
+671,34,Archivist,336,D
+672,34,"Scientist, research (physical sciences)",336,E
+673,34,"Engineer, electrical",337,D
+674,34,Clothing/textile technologist,337,D
+675,34,"Surveyor, mining",338,E
+676,34,Financial planner,338,D
+677,34,Air traffic controller,339,D
+678,34,Solicitor,339,B
+679,34,Intelligence analyst,340,E
+680,34,Dealer,340,C
+681,35,Financial adviser,341,E
+682,35,"Teacher, music",341,E
+683,35,"Research officer, government",342,E
+684,35,"Sound technician, broadcasting/film/video",342,C
+685,35,"Research officer, political party",343,A
+686,35,Police officer,343,A
+687,35,Education administrator,344,D
+688,35,Product manager,344,A
+689,35,Garment/textile technologist,345,E
+690,35,Drilling engineer,345,D
+691,35,Arboriculturist,346,C
+692,35,Media planner,346,D
+693,35,Hotel manager,347,C
+694,35,Licensed conveyancer,347,D
+695,35,Graphic designer,348,C
+696,35,Estate manager/land agent,348,B
+697,35,"Nurse, adult",349,B
+698,35,"Accountant, chartered public finance",349,D
+699,35,Barrister's clerk,350,C
+700,35,Chiropodist,350,C
+701,36,Copy,351,E
+702,36,"Therapist, sports",351,C
+703,36,Lawyer,352,B
+704,36,"Surveyor, rural practice",352,A
+705,36,"Development worker, international aid",353,D
+706,36,Advertising account executive,353,C
+707,36,Architectural technologist,354,B
+708,36,"Social research officer, government",354,A
+709,36,"Designer, textile",355,B
+710,36,TEFL teacher,355,D
+711,36,"Designer, fashion/clothing",356,A
+712,36,Careers information officer,356,E
+713,36,Corporate treasurer,357,C
+714,36,Dentist,357,C
+715,36,Sports development officer,358,B
+716,36,"Embryologist, clinical",358,C
+717,36,Orthoptist,359,A
+718,36,Neurosurgeon,359,C
+719,36,Advertising account executive,360,B
+720,36,Merchant navy officer,360,D
+721,37,Homeopath,361,E
+722,37,Local government officer,361,D
+723,37,"Surveyor, rural practice",362,E
+724,37,"Administrator, sports",362,E
+725,37,Fast food restaurant manager,363,B
+726,37,Theatre stage manager,363,E
+727,37,Administrator,364,E
+728,37,Mental health nurse,364,C
+729,37,Mental health nurse,365,D
+730,37,"Lighting technician, broadcasting/film/video",365,C
+731,37,Chartered legal executive (England and Wales),366,D
+732,37,"Teacher, special educational needs",366,D
+733,37,Metallurgist,367,C
+734,37,Medical secretary,367,C
+735,37,Bookseller,368,B
+736,37,Outdoor activities/education manager,368,E
+737,37,Emergency planning/management officer,369,C
+738,37,Media planner,369,B
+739,37,"Teacher, special educational needs",370,E
+740,37,Forensic psychologist,370,D
+741,38,Dealer,371,A
+742,38,"Engineer, petroleum",371,D
+743,38,"Scientist, research (physical sciences)",372,A
+744,38,Electrical engineer,372,B
+745,38,Tourism officer,373,B
+746,38,Control and instrumentation engineer,373,C
+747,38,Risk analyst,374,E
+748,38,Clinical research associate,374,A
+749,38,"Investment banker, operational",375,C
+750,38,Television camera operator,375,C
+751,38,Television floor manager,376,D
+752,38,"Surveyor, minerals",376,B
+753,38,Web designer,377,B
+754,38,Chief Operating Officer,377,D
+755,38,Warehouse manager,378,E
+756,38,Diagnostic radiographer,378,D
+757,38,Materials engineer,379,D
+758,38,Freight forwarder,379,D
+759,38,Psychotherapist,380,A
+760,38,Garment/textile technologist,380,A
+761,39,Product manager,381,E
+762,39,Electrical engineer,381,E
+763,39,Nutritional therapist,382,A
+764,39,Personal assistant,382,C
+765,39,Media planner,383,A
+766,39,Chief Strategy Officer,383,C
+767,39,Investment analyst,384,C
+768,39,Dealer,384,B
+769,39,Futures trader,385,A
+770,39,Editorial assistant,385,C
+771,39,Legal secretary,386,E
+772,39,Product/process development scientist,386,B
+773,39,Catering manager,387,C
+774,39,Minerals surveyor,387,E
+775,39,Midwife,388,A
+776,39,"Geologist, wellsite",388,C
+777,39,Management consultant,389,C
+778,39,Database administrator,389,B
+779,39,Patent attorney,390,C
+780,39,"Engineer, maintenance",390,D
+781,40,"Engineer, communications",391,E
+782,40,"Designer, industrial/product",391,E
+783,40,Television floor manager,392,D
+784,40,Psychiatric nurse,392,D
+785,40,"Therapist, music",393,D
+786,40,Physiotherapist,393,B
+787,40,Theatre director,394,E
+788,40,Financial risk analyst,394,B
+789,40,Accommodation manager,395,D
+790,40,Medical secretary,395,B
+791,40,Copy,396,D
+792,40,Airline pilot,396,D
+793,40,Prison officer,397,C
+794,40,Osteopath,397,B
+795,40,Tax inspector,398,E
+796,40,Chief Marketing Officer,398,E
+797,40,Associate Professor,399,D
+798,40,Network engineer,399,E
+799,40,Horticultural consultant,400,C
+800,40,"Engineer, communications",400,A
+801,41,Plant breeder/geneticist,401,A
+802,41,"Accountant, chartered certified",401,A
+803,41,Visual merchandiser,402,D
+804,41,Estate manager/land agent,402,E
+805,41,Operations geologist,403,B
+806,41,Volunteer coordinator,403,B
+807,41,Radio producer,404,E
+808,41,"Research officer, political party",404,B
+809,41,Tourism officer,405,D
+810,41,"Physicist, medical",405,C
+811,41,Operational researcher,406,A
+812,41,Ophthalmologist,406,C
+813,41,"Biochemist, clinical",407,C
+814,41,Insurance claims handler,407,A
+815,41,"Editor, commissioning",408,D
+816,41,Diplomatic Services operational officer,408,B
+817,41,IT sales professional,409,A
+818,41,Community development worker,409,D
+819,41,Retail merchandiser,410,E
+820,41,Writer,410,B
+821,42,"Production assistant, television",411,B
+822,42,"Designer, interior/spatial",411,D
+823,42,Teaching laboratory technician,412,A
+824,42,Newspaper journalist,412,A
+825,42,Estate agent,413,D
+826,42,Comptroller,413,D
+827,42,Freight forwarder,414,E
+828,42,Adult nurse,414,B
+829,42,"Programmer, systems",415,C
+830,42,Interior and spatial designer,415,B
+831,42,Quantity surveyor,416,C
+832,42,Magazine features editor,416,A
+833,42,Rural practice surveyor,417,C
+834,42,English as a foreign language teacher,417,E
+835,42,Insurance underwriter,418,A
+836,42,Tax inspector,418,C
+837,42,Air cabin crew,419,B
+838,42,Recycling officer,419,B
+839,42,"Copywriter, advertising",420,E
+840,42,Geoscientist,420,D
+841,43,"Engineer, maintenance",421,A
+842,43,Midwife,421,C
+843,43,"Administrator, local government",422,A
+844,43,Historic buildings inspector/conservation officer,422,C
+845,43,Youth worker,423,D
+846,43,Plant breeder/geneticist,423,E
+847,43,Ergonomist,424,C
+848,43,Accounting technician,424,E
+849,43,English as a second language teacher,425,D
+850,43,Transport planner,425,E
+851,43,Naval architect,426,C
+852,43,Contracting civil engineer,426,B
+853,43,Forensic scientist,427,E
+854,43,Technical brewer,427,D
+855,43,"Surveyor, building",428,E
+856,43,"Engineer, communications",428,B
+857,43,Comptroller,429,D
+858,43,Newspaper journalist,429,D
+859,43,Systems analyst,430,D
+860,43,Quantity surveyor,430,B
+861,44,Media planner,431,A
+862,44,"Psychotherapist, child",431,E
+863,44,Video editor,432,B
+864,44,Control and instrumentation engineer,432,E
+865,44,Airline pilot,433,A
+866,44,Tour manager,433,D
+867,44,Occupational hygienist,434,E
+868,44,Pharmacologist,434,A
+869,44,Location manager,435,B
+870,44,Insurance claims handler,435,E
+871,44,Curator,436,B
+872,44,Horticultural therapist,436,A
+873,44,Research scientist (physical sciences),437,A
+874,44,Gaffer,437,D
+875,44,Occupational psychologist,438,C
+876,44,"Therapist, sports",438,B
+877,44,Financial adviser,439,A
+878,44,"Psychologist, counselling",439,D
+879,44,"Engineer, drilling",440,C
+880,44,"Education officer, museum",440,E
+881,45,Research scientist (maths),441,E
+882,45,"Programmer, applications",441,A
+883,45,Applications developer,442,B
+884,45,Outdoor activities/education manager,442,C
+885,45,"Engineer, electrical",443,A
+886,45,Secretary/administrator,443,B
+887,45,"Horticulturist, commercial",444,E
+888,45,"Physicist, medical",444,E
+889,45,Civil Service administrator,445,A
+890,45,Insurance broker,445,D
+891,45,Geophysicist/field seismologist,446,A
+892,45,"Designer, textile",446,A
+893,45,Dentist,447,E
+894,45,"Engineer, manufacturing systems",447,B
+895,45,Information systems manager,448,D
+896,45,"Conservator, furniture",448,A
+897,45,"Development worker, community",449,C
+898,45,"Loss adjuster, chartered",449,C
+899,45,"Engineer, manufacturing systems",450,E
+900,45,Technical author,450,B
+901,46,"Therapist, horticultural",451,B
+902,46,"Designer, jewellery",451,A
+903,46,Best boy,452,A
+904,46,Civil Service fast streamer,452,B
+905,46,Computer games developer,453,C
+906,46,Forensic psychologist,453,D
+907,46,"Teacher, special educational needs",454,C
+908,46,Historic buildings inspector/conservation officer,454,B
+909,46,Herpetologist,455,E
+910,46,Electronics engineer,455,C
+911,46,"Biochemist, clinical",456,C
+912,46,Health promotion specialist,456,E
+913,46,"Teacher, primary school",457,C
+914,46,Meteorologist,457,D
+915,46,Clinical cytogeneticist,458,E
+916,46,Patent attorney,458,D
+917,46,Gaffer,459,C
+918,46,"Lecturer, higher education",459,C
+919,46,"Therapist, occupational",460,B
+920,46,"Surveyor, mining",460,B
+921,47,"Scientist, water quality",461,A
+922,47,Gaffer,461,B
+923,47,Clinical cytogeneticist,462,E
+924,47,"Surveyor, building control",462,E
+925,47,"Surveyor, hydrographic",463,B
+926,47,Banker,463,D
+927,47,Air traffic controller,464,A
+928,47,Licensed conveyancer,464,A
+929,47,Photographer,465,D
+930,47,Training and development officer,465,A
+931,47,Radio broadcast assistant,466,A
+932,47,"Investment banker, corporate",466,C
+933,47,Theatre manager,467,A
+934,47,Estate manager/land agent,467,C
+935,47,Communications engineer,468,E
+936,47,"Physicist, medical",468,B
+937,47,"Pharmacist, community",469,A
+938,47,Charity officer,469,D
+939,47,"Therapist, drama",470,E
+940,47,Fitness centre manager,470,D
+941,48,Sports administrator,471,E
+942,48,Local government officer,471,A
+943,48,Dealer,472,B
+944,48,Architect,472,A
+945,48,Acupuncturist,473,E
+946,48,Computer games developer,473,B
+947,48,Nature conservation officer,474,D
+948,48,Medical sales representative,474,B
+949,48,Air broker,475,B
+950,48,Microbiologist,475,C
+951,48,"Lecturer, higher education",476,B
+952,48,"Scientist, clinical (histocompatibility and immunogenetics)",476,B
+953,48,"Therapist, drama",477,C
+954,48,"Therapist, drama",477,A
+955,48,Oceanographer,478,B
+956,48,"Solicitor, Scotland",478,D
+957,48,Clinical psychologist,479,A
+958,48,Civil Service fast streamer,479,E
+959,48,Waste management officer,480,E
+960,48,"Surveyor, building",480,C
+961,49,"Engineer, automotive",481,D
+962,49,"Engineer, mining",481,A
+963,49,IT trainer,482,A
+964,49,"Surveyor, building control",482,A
+965,49,Operational researcher,483,A
+966,49,Cytogeneticist,483,E
+967,49,Architectural technologist,484,C
+968,49,Charity officer,484,E
+969,49,Amenity horticulturist,485,D
+970,49,Manufacturing systems engineer,485,E
+971,49,"Engineer, maintenance (IT)",486,E
+972,49,Paramedic,486,D
+973,49,"Teacher, early years/pre",487,D
+974,49,Commercial art gallery manager,487,A
+975,49,Paramedic,488,B
+976,49,"Engineer, maintenance (IT)",488,C
+977,49,Lexicographer,489,E
+978,49,Chemical engineer,489,C
+979,49,"Civil engineer, contracting",490,A
+980,49,"Copywriter, advertising",490,A
+981,50,Government social research officer,491,E
+982,50,Fashion designer,491,A
+983,50,Dramatherapist,492,E
+984,50,"Engineer, structural",492,B
+985,50,Music tutor,493,C
+986,50,"Presenter, broadcasting",493,B
+987,50,"Engineer, civil (contracting)",494,D
+988,50,"Engineer, electronics",494,C
+989,50,"Administrator, arts",495,D
+990,50,"Scientist, research (maths)",495,E
+991,50,Health visitor,496,C
+992,50,Personal assistant,496,E
+993,50,"Engineer, structural",497,C
+994,50,Sales executive,497,A
+995,50,"Civil engineer, consulting",498,E
+996,50,Warden/ranger,498,E
+997,50,Medical laboratory scientific officer,499,C
+998,50,Learning mentor,499,B
+999,50,Food technologist,500,C
+1000,50,Sales executive,500,C
+1001,51,Facilities manager,501,D
+1002,51,Research scientist (physical sciences),501,E
+1003,51,TEFL teacher,502,D
+1004,51,"Engineer, petroleum",502,B
+1005,51,Systems developer,503,A
+1006,51,Arts development officer,503,D
+1007,51,Systems developer,504,E
+1008,51,Clinical cytogeneticist,504,A
+1009,51,Geochemist,505,E
+1010,51,Podiatrist,505,C
+1011,51,Chiropractor,506,A
+1012,51,Applications developer,506,B
+1013,51,Chiropodist,507,A
+1014,51,Land,507,B
+1015,51,Lawyer,508,B
+1016,51,Colour technologist,508,C
+1017,51,Wellsite geologist,509,A
+1018,51,Heritage manager,509,B
+1019,51,Chief Technology Officer,510,E
+1020,51,Financial adviser,510,D
+1021,52,Immunologist,511,C
+1022,52,"Teacher, English as a foreign language",511,B
+1023,52,Bookseller,512,C
+1024,52,Chief Strategy Officer,512,C
+1025,52,"Nurse, adult",513,A
+1026,52,Quantity surveyor,513,E
+1027,52,Database administrator,514,C
+1028,52,"Journalist, broadcasting",514,A
+1029,52,Equality and diversity officer,515,C
+1030,52,"Conservator, furniture",515,A
+1031,52,Field seismologist,516,D
+1032,52,Corporate investment banker,516,C
+1033,52,Archaeologist,517,C
+1034,52,"Teacher, early years/pre",517,B
+1035,52,Audiological scientist,518,E
+1036,52,"Psychologist, sport and exercise",518,A
+1037,52,Publishing rights manager,519,B
+1038,52,Sports development officer,519,A
+1039,52,Sub,520,D
+1040,52,Farm manager,520,D
+1041,53,Photographer,521,D
+1042,53,Firefighter,521,E
+1043,53,"Engineer, water",522,D
+1044,53,Youth worker,522,C
+1045,53,Chief Strategy Officer,523,A
+1046,53,Learning mentor,523,C
+1047,53,Ecologist,524,D
+1048,53,Hotel manager,524,C
+1049,53,"Civil engineer, consulting",525,D
+1050,53,"Production assistant, radio",525,E
+1051,53,"Production designer, theatre/television/film",526,B
+1052,53,"Engineer, drilling",526,A
+1053,53,Publishing copy,527,A
+1054,53,Garment/textile technologist,527,B
+1055,53,Quality manager,528,D
+1056,53,"Engineer, aeronautical",528,C
+1057,53,Production manager,529,B
+1058,53,"Designer, jewellery",529,C
+1059,53,Toxicologist,530,E
+1060,53,"Engineer, site",530,B
+1061,54,"Teacher, early years/pre",531,A
+1062,54,Operations geologist,531,E
+1063,54,Make,532,D
+1064,54,Planning and development surveyor,532,E
+1065,54,Garment/textile technologist,533,E
+1066,54,Newspaper journalist,533,A
+1067,54,Diplomatic Services operational officer,534,E
+1068,54,"Conservator, museum/gallery",534,C
+1069,54,"Therapist, occupational",535,E
+1070,54,Special educational needs teacher,535,D
+1071,54,Recruitment consultant,536,D
+1072,54,Clinical molecular geneticist,536,E
+1073,54,Farm manager,537,C
+1074,54,Transport planner,537,A
+1075,54,Location manager,538,C
+1076,54,Systems developer,538,C
+1077,54,Health and safety inspector,539,B
+1078,54,Actor,539,A
+1079,54,Industrial/product designer,540,D
+1080,54,Product designer,540,A
+1081,55,"Engineer, mining",541,E
+1082,55,Nutritional therapist,541,D
+1083,55,Equality and diversity officer,542,D
+1084,55,Horticultural consultant,542,B
+1085,55,TEFL teacher,543,C
+1086,55,International aid/development worker,543,E
+1087,55,Agricultural consultant,544,C
+1088,55,Media buyer,544,B
+1089,55,Animal nutritionist,545,A
+1090,55,Physiological scientist,545,A
+1091,55,Agricultural consultant,546,E
+1092,55,"Teacher, music",546,B
+1093,55,Sports therapist,547,A
+1094,55,Advertising copywriter,547,E
+1095,55,Art therapist,548,E
+1096,55,Astronomer,548,D
+1097,55,Optometrist,549,E
+1098,55,Youth worker,549,C
+1099,55,Hydrologist,550,C
+1100,55,Production manager,550,B
+1101,56,Learning disability nurse,551,A
+1102,56,Agricultural engineer,551,B
+1103,56,"Surveyor, commercial/residential",552,D
+1104,56,Museum/gallery exhibitions officer,552,A
+1105,56,Claims inspector/assessor,553,C
+1106,56,Petroleum engineer,553,D
+1107,56,Graphic designer,554,B
+1108,56,Armed forces logistics/support/administrative officer,554,D
+1109,56,"Librarian, academic",555,D
+1110,56,Armed forces operational officer,555,A
+1111,56,Biomedical engineer,556,D
+1112,56,Magazine journalist,556,E
+1113,56,Commissioning editor,557,E
+1114,56,Web designer,557,E
+1115,56,"Administrator, education",558,C
+1116,56,Secondary school teacher,558,A
+1117,56,Chief Technology Officer,559,A
+1118,56,"Teacher, primary school",559,A
+1119,56,"Sound technician, broadcasting/film/video",560,E
+1120,56,Animal nutritionist,560,B
+1121,57,"Engineer, petroleum",561,A
+1122,57,"Therapist, drama",561,C
+1123,57,Telecommunications researcher,562,C
+1124,57,Paramedic,562,C
+1125,57,Health service manager,563,D
+1126,57,Chiropractor,563,D
+1127,57,Clinical cytogeneticist,564,A
+1128,57,"Education officer, community",564,C
+1129,57,Community development worker,565,B
+1130,57,"Designer, furniture",565,E
+1131,57,"Surveyor, building",566,D
+1132,57,Field trials officer,566,B
+1133,57,Exercise physiologist,567,B
+1134,57,Radiation protection practitioner,567,C
+1135,57,Trade union research officer,568,D
+1136,57,Gaffer,568,D
+1137,57,Office manager,569,D
+1138,57,"Engineer, energy",569,A
+1139,57,Arts development officer,570,A
+1140,57,"Scientist, research (maths)",570,A
+1141,58,Senior tax professional/tax inspector,571,A
+1142,58,Ranger/warden,571,C
+1143,58,Cabin crew,572,A
+1144,58,Estate agent,572,C
+1145,58,"Conservator, furniture",573,A
+1146,58,"Nurse, mental health",573,B
+1147,58,Proofreader,574,B
+1148,58,Brewing technologist,574,C
+1149,58,Fine artist,575,D
+1150,58,Estate agent,575,B
+1151,58,Commissioning editor,576,C
+1152,58,"Designer, furniture",576,C
+1153,58,Politician's assistant,577,B
+1154,58,Recycling officer,577,D
+1155,58,Petroleum engineer,578,C
+1156,58,Furniture conservator/restorer,578,D
+1157,58,Transport planner,579,A
+1158,58,"Engineer, agricultural",579,C
+1159,58,Stage manager,580,E
+1160,58,Animator,580,C
+1161,59,Sub,581,E
+1162,59,Newspaper journalist,581,E
+1163,59,"Designer, fashion/clothing",582,E
+1164,59,"Research officer, political party",582,A
+1165,59,"Teacher, primary school",583,E
+1166,59,Corporate treasurer,583,E
+1167,59,Art therapist,584,D
+1168,59,Information systems manager,584,B
+1169,59,Nature conservation officer,585,A
+1170,59,Television floor manager,585,A
+1171,59,Quantity surveyor,586,C
+1172,59,"Programmer, multimedia",586,A
+1173,59,"Therapist, occupational",587,B
+1174,59,Petroleum engineer,587,C
+1175,59,Learning mentor,588,C
+1176,59,Site engineer,588,D
+1177,59,Exercise physiologist,589,A
+1178,59,Bonds trader,589,E
+1179,59,Hydrographic surveyor,590,A
+1180,59,Social researcher,590,C
+1181,60,Retail banker,591,D
+1182,60,Field seismologist,591,C
+1183,60,"Librarian, public",592,A
+1184,60,Industrial buyer,592,B
+1185,60,Film/video editor,593,B
+1186,60,Sales promotion account executive,593,C
+1187,60,Politician's assistant,594,E
+1188,60,Glass blower/designer,594,A
+1189,60,"Horticulturist, commercial",595,A
+1190,60,Museum/gallery conservator,595,C
+1191,60,IT trainer,596,C
+1192,60,IT consultant,596,D
+1193,60,"Engineer, maintenance (IT)",597,B
+1194,60,Chief of Staff,597,C
+1195,60,Immunologist,598,D
+1196,60,Hydrographic surveyor,598,B
+1197,60,"Engineer, broadcasting (operations)",599,D
+1198,60,"Civil engineer, consulting",599,C
+1199,60,Financial manager,600,E
+1200,60,Osteopath,600,A
+1201,61,"Social research officer, government",601,E
+1202,61,"Development worker, community",601,D
+1203,61,Interpreter,602,A
+1204,61,"Engineer, petroleum",602,A
+1205,61,Personal assistant,603,D
+1206,61,"Psychologist, forensic",603,D
+1207,61,Financial risk analyst,604,C
+1208,61,Haematologist,604,C
+1209,61,"Scientist, research (medical)",605,A
+1210,61,Medical sales representative,605,A
+1211,61,"Nurse, children's",606,B
+1212,61,Brewing technologist,606,E
+1213,61,Textile designer,607,B
+1214,61,Publishing copy,607,A
+1215,61,Printmaker,608,C
+1216,61,Chief Strategy Officer,608,B
+1217,61,Dietitian,609,A
+1218,61,Community arts worker,609,D
+1219,61,"Scientist, research (physical sciences)",610,B
+1220,61,"Geologist, engineering",610,B
+1221,62,Geochemist,611,B
+1222,62,Actuary,611,B
+1223,62,Newspaper journalist,612,A
+1224,62,"Nurse, learning disability",612,C
+1225,62,"Engineer, civil (contracting)",613,C
+1226,62,Agricultural consultant,613,B
+1227,62,Trade mark attorney,614,A
+1228,62,"Designer, textile",614,E
+1229,62,Best boy,615,A
+1230,62,Pathologist,615,E
+1231,62,"Physicist, medical",616,B
+1232,62,"Lecturer, further education",616,C
+1233,62,Physiotherapist,617,C
+1234,62,Museum education officer,617,E
+1235,62,Architect,618,E
+1236,62,"Geologist, engineering",618,A
+1237,62,Public librarian,619,E
+1238,62,"Teacher, primary school",619,A
+1239,62,Therapeutic radiographer,620,D
+1240,62,"Administrator, education",620,E
+1241,63,Chartered legal executive (England and Wales),621,C
+1242,63,Animal technologist,621,B
+1243,63,Dentist,622,D
+1244,63,Warehouse manager,622,C
+1245,63,"Surveyor, land/geomatics",623,C
+1246,63,Fast food restaurant manager,623,E
+1247,63,"Development worker, international aid",624,E
+1248,63,Learning mentor,624,E
+1249,63,"Physicist, medical",625,B
+1250,63,Counselling psychologist,625,D
+1251,63,Risk analyst,626,A
+1252,63,"Horticulturist, amenity",626,E
+1253,63,"Radiographer, therapeutic",627,D
+1254,63,Fine artist,627,D
+1255,63,Cabin crew,628,D
+1256,63,Geophysical data processor,628,B
+1257,63,Data processing manager,629,D
+1258,63,Web designer,629,E
+1259,63,"Engineer, biomedical",630,A
+1260,63,Fine artist,630,A
+1261,64,Contractor,631,B
+1262,64,"Administrator, Civil Service",631,E
+1263,64,Air broker,632,B
+1264,64,Private music teacher,632,D
+1265,64,Health and safety adviser,633,C
+1266,64,Illustrator,633,A
+1267,64,Secondary school teacher,634,E
+1268,64,Advertising account planner,634,C
+1269,64,Museum/gallery curator,635,C
+1270,64,"Psychologist, prison and probation services",635,C
+1271,64,Warden/ranger,636,E
+1272,64,Diplomatic Services operational officer,636,D
+1273,64,Arboriculturist,637,E
+1274,64,Diplomatic Services operational officer,637,A
+1275,64,Acupuncturist,638,C
+1276,64,"Scientist, research (maths)",638,A
+1277,64,Office manager,639,D
+1278,64,Manufacturing systems engineer,639,A
+1279,64,"Chemist, analytical",640,C
+1280,64,Intelligence analyst,640,A
+1281,65,Agricultural engineer,641,C
+1282,65,"Psychologist, counselling",641,C
+1283,65,Sales executive,642,A
+1284,65,Exhibition designer,642,E
+1285,65,Futures trader,643,D
+1286,65,Multimedia programmer,643,B
+1287,65,Barrister's clerk,644,B
+1288,65,Police officer,644,C
+1289,65,"Production designer, theatre/television/film",645,B
+1290,65,Records manager,645,B
+1291,65,Diagnostic radiographer,646,A
+1292,65,"Engineer, technical sales",646,E
+1293,65,Clinical molecular geneticist,647,A
+1294,65,Special effects artist,647,A
+1295,65,"Scientist, clinical (histocompatibility and immunogenetics)",648,B
+1296,65,Chief Marketing Officer,648,A
+1297,65,"Scientist, research (physical sciences)",649,A
+1298,65,"Engineer, water",649,C
+1299,65,"Surveyor, land/geomatics",650,C
+1300,65,Office manager,650,E
+1301,66,IT technical support officer,651,E
+1302,66,Health and safety inspector,651,D
+1303,66,Exercise physiologist,652,C
+1304,66,"Therapist, speech and language",652,C
+1305,66,Barrister's clerk,653,E
+1306,66,"Investment banker, operational",653,D
+1307,66,Health promotion specialist,654,C
+1308,66,Chartered legal executive (England and Wales),654,C
+1309,66,Tourist information centre manager,655,D
+1310,66,Textile designer,655,C
+1311,66,Electrical engineer,656,B
+1312,66,Clinical cytogeneticist,656,B
+1313,66,Psychiatric nurse,657,C
+1314,66,Advice worker,657,B
+1315,66,Purchasing manager,658,A
+1316,66,Manufacturing systems engineer,658,A
+1317,66,Fitness centre manager,659,A
+1318,66,"Presenter, broadcasting",659,D
+1319,66,Early years teacher,660,B
+1320,66,Applications developer,660,D
+1321,67,Secretary/administrator,661,E
+1322,67,"Editor, commissioning",661,E
+1323,67,"Designer, multimedia",662,B
+1324,67,Planning and development surveyor,662,C
+1325,67,"Engineer, civil (contracting)",663,D
+1326,67,Hydrologist,663,D
+1327,67,Trade union research officer,664,C
+1328,67,Ship broker,664,E
+1329,67,Technical sales engineer,665,E
+1330,67,Arts development officer,665,A
+1331,67,Audiological scientist,666,E
+1332,67,Event organiser,666,E
+1333,67,Aeronautical engineer,667,A
+1334,67,"Teacher, primary school",667,E
+1335,67,Merchant navy officer,668,E
+1336,67,Furniture designer,668,C
+1337,67,"Programme researcher, broadcasting/film/video",669,B
+1338,67,Veterinary surgeon,669,E
+1339,67,Herbalist,670,A
+1340,67,Health promotion specialist,670,A
+1341,68,"Scientist, water quality",671,B
+1342,68,Lawyer,671,D
+1343,68,Minerals surveyor,672,D
+1344,68,"Conservator, furniture",672,B
+1345,68,Broadcast engineer,673,B
+1346,68,Prison officer,673,C
+1347,68,Software engineer,674,D
+1348,68,Clothing/textile technologist,674,D
+1349,68,Chief Strategy Officer,675,E
+1350,68,"Designer, exhibition/display",675,D
+1351,68,"Development worker, international aid",676,D
+1352,68,Lexicographer,676,B
+1353,68,Patent examiner,677,C
+1354,68,"Engineer, water",677,C
+1355,68,Solicitor,678,E
+1356,68,Food technologist,678,C
+1357,68,Management consultant,679,A
+1358,68,Manufacturing systems engineer,679,C
+1359,68,Forest/woodland manager,680,E
+1360,68,"Runner, broadcasting/film/video",680,D
+1361,69,"Administrator, arts",681,A
+1362,69,"Scientist, product/process development",681,B
+1363,69,Biomedical scientist,682,C
+1364,69,Petroleum engineer,682,D
+1365,69,Clinical psychologist,683,E
+1366,69,Teaching laboratory technician,683,C
+1367,69,Petroleum engineer,684,A
+1368,69,Psychiatric nurse,684,B
+1369,69,"Buyer, retail",685,D
+1370,69,Chiropodist,685,C
+1371,69,"Programmer, applications",686,C
+1372,69,Data processing manager,686,A
+1373,69,Museum/gallery exhibitions officer,687,C
+1374,69,Electrical engineer,687,E
+1375,69,Osteopath,688,D
+1376,69,"Surveyor, mining",688,B
+1377,69,Analytical chemist,689,B
+1378,69,Local government officer,689,E
+1379,69,"Physicist, medical",690,B
+1380,69,Health promotion specialist,690,D
+1381,70,Heritage manager,691,B
+1382,70,Counsellor,691,D
+1383,70,Charity officer,692,A
+1384,70,Tax adviser,692,E
+1385,70,"Producer, radio",693,B
+1386,70,Sports coach,693,D
+1387,70,Interior and spatial designer,694,C
+1388,70,"Therapist, nutritional",694,E
+1389,70,Energy engineer,695,E
+1390,70,"Surveyor, minerals",695,A
+1391,70,Armed forces operational officer,696,A
+1392,70,English as a second language teacher,696,B
+1393,70,"Producer, television/film/video",697,E
+1394,70,"Runner, broadcasting/film/video",697,A
+1395,70,Osteopath,698,B
+1396,70,Copy,698,D
+1397,70,"Surveyor, building",699,B
+1398,70,"Solicitor, Scotland",699,E
+1399,70,Analytical chemist,700,C
+1400,70,"Engineer, chemical",700,C
+1401,71,Herpetologist,701,B
+1402,71,"Surveyor, commercial/residential",701,C
+1403,71,"Engineer, land",702,B
+1404,71,Geochemist,702,B
+1405,71,Automotive engineer,703,D
+1406,71,Scientific laboratory technician,703,E
+1407,71,Medical technical officer,704,E
+1408,71,Higher education careers adviser,704,B
+1409,71,Music tutor,705,E
+1410,71,"Conservator, museum/gallery",705,D
+1411,71,Animator,706,A
+1412,71,"Engineer, automotive",706,E
+1413,71,Hydrologist,707,E
+1414,71,"Engineer, maintenance",707,D
+1415,71,Product/process development scientist,708,D
+1416,71,Hospital pharmacist,708,B
+1417,71,"Accountant, chartered certified",709,E
+1418,71,Archivist,709,B
+1419,71,Phytotherapist,710,D
+1420,71,Press photographer,710,E
+1421,72,Statistician,711,E
+1422,72,Administrator,711,D
+1423,72,Dietitian,712,A
+1424,72,"Civil engineer, contracting",712,A
+1425,72,Medical technical officer,713,C
+1426,72,Personnel officer,713,D
+1427,72,Exercise physiologist,714,B
+1428,72,Geophysical data processor,714,E
+1429,72,Operational investment banker,715,E
+1430,72,"Restaurant manager, fast food",715,A
+1431,72,Manufacturing systems engineer,716,D
+1432,72,Systems analyst,716,B
+1433,72,"Designer, fashion/clothing",717,C
+1434,72,"Chemist, analytical",717,D
+1435,72,Land,718,C
+1436,72,"Engineer, structural",718,C
+1437,72,Architectural technologist,719,B
+1438,72,"Nurse, learning disability",719,B
+1439,72,Mining engineer,720,B
+1440,72,Health promotion specialist,720,B
+1441,73,Landscape architect,721,B
+1442,73,"Engineer, broadcasting (operations)",721,A
+1443,73,Retail merchandiser,722,B
+1444,73,Fast food restaurant manager,722,B
+1445,73,Tax inspector,723,C
+1446,73,Theatre director,723,C
+1447,73,Tax inspector,724,D
+1448,73,Animator,724,C
+1449,73,Regulatory affairs officer,725,B
+1450,73,Fine artist,725,A
+1451,73,"Engineer, land",726,D
+1452,73,Health visitor,726,E
+1453,73,"Designer, multimedia",727,B
+1454,73,Educational psychologist,727,B
+1455,73,Production engineer,728,B
+1456,73,Exhibition designer,728,B
+1457,73,Armed forces logistics/support/administrative officer,729,C
+1458,73,Careers information officer,729,D
+1459,73,Exhibition designer,730,E
+1460,73,Occupational hygienist,730,A
+1461,74,Occupational psychologist,731,C
+1462,74,"Pharmacist, hospital",731,B
+1463,74,Air broker,732,E
+1464,74,Dancer,732,B
+1465,74,Volunteer coordinator,733,B
+1466,74,Homeopath,733,B
+1467,74,Insurance account manager,734,D
+1468,74,Armed forces operational officer,734,B
+1469,74,Tax adviser,735,A
+1470,74,"Engineer, electronics",735,E
+1471,74,Hydrogeologist,736,D
+1472,74,"Radiographer, diagnostic",736,A
+1473,74,Museum/gallery exhibitions officer,737,D
+1474,74,"Clinical scientist, histocompatibility and immunogenetics",737,C
+1475,74,Video editor,738,E
+1476,74,Magazine journalist,738,A
+1477,74,Chartered public finance accountant,739,A
+1478,74,"Programmer, systems",739,D
+1479,74,Medical physicist,740,D
+1480,74,Environmental manager,740,A
+1481,75,Water engineer,741,B
+1482,75,Television camera operator,741,C
+1483,75,Armed forces operational officer,742,A
+1484,75,Chiropractor,742,E
+1485,75,Materials engineer,743,B
+1486,75,"Psychologist, clinical",743,A
+1487,75,"Engineer, aeronautical",744,A
+1488,75,Insurance claims handler,744,C
+1489,75,Horticultural consultant,745,B
+1490,75,Child psychotherapist,745,B
+1491,75,"Accountant, chartered certified",746,B
+1492,75,Broadcast journalist,746,B
+1493,75,Toxicologist,747,B
+1494,75,"Presenter, broadcasting",747,A
+1495,75,"Engineer, control and instrumentation",748,B
+1496,75,Research scientist (life sciences),748,A
+1497,75,"Engineer, energy",749,C
+1498,75,Records manager,749,D
+1499,75,"Surveyor, insurance",750,B
+1500,75,"Optician, dispensing",750,A
+1501,76,"Scientist, physiological",751,E
+1502,76,Public librarian,751,A
+1503,76,"Designer, multimedia",752,D
+1504,76,"Designer, fashion/clothing",752,B
+1505,76,"Accountant, chartered management",753,D
+1506,76,"Scientist, water quality",753,C
+1507,76,"Programme researcher, broadcasting/film/video",754,C
+1508,76,"Buyer, retail",754,D
+1509,76,Passenger transport manager,755,B
+1510,76,IT consultant,755,A
+1511,76,Editorial assistant,756,C
+1512,76,Catering manager,756,C
+1513,76,Tax adviser,757,B
+1514,76,Video editor,757,E
+1515,76,"Librarian, public",758,B
+1516,76,"Programmer, applications",758,C
+1517,76,Water quality scientist,759,D
+1518,76,"Engineer, automotive",759,D
+1519,76,Recruitment consultant,760,D
+1520,76,Personnel officer,760,C
+1521,77,Arts development officer,761,D
+1522,77,"Designer, industrial/product",761,A
+1523,77,Fitness centre manager,762,B
+1524,77,"Horticulturist, amenity",762,B
+1525,77,Solicitor,763,A
+1526,77,Hospital pharmacist,763,D
+1527,77,Press photographer,764,B
+1528,77,Therapeutic radiographer,764,C
+1529,77,Accommodation manager,765,B
+1530,77,"Research officer, government",765,B
+1531,77,Broadcast presenter,766,C
+1532,77,Public house manager,766,E
+1533,77,"Horticulturist, amenity",767,C
+1534,77,"Psychologist, sport and exercise",767,A
+1535,77,"Surveyor, building",768,B
+1536,77,Medical technical officer,768,B
+1537,77,Quantity surveyor,769,B
+1538,77,Water quality scientist,769,E
+1539,77,Building control surveyor,770,C
+1540,77,Insurance account manager,770,B
+1541,78,"Engineer, materials",771,D
+1542,78,Personal assistant,771,A
+1543,78,"Psychologist, educational",772,E
+1544,78,Management consultant,772,B
+1545,78,Probation officer,773,A
+1546,78,Dance movement psychotherapist,773,E
+1547,78,Race relations officer,774,A
+1548,78,Media planner,774,E
+1549,78,Bonds trader,775,B
+1550,78,Furniture designer,775,E
+1551,78,Systems analyst,776,E
+1552,78,"Engineer, manufacturing systems",776,A
+1553,78,Theatre manager,777,A
+1554,78,Control and instrumentation engineer,777,E
+1555,78,Secondary school teacher,778,B
+1556,78,Higher education lecturer,778,B
+1557,78,Ceramics designer,779,C
+1558,78,"Editor, film/video",779,B
+1559,78,"Accountant, chartered management",780,A
+1560,78,"Surveyor, land/geomatics",780,D
+1561,79,Television/film/video producer,781,C
+1562,79,Soil scientist,781,A
+1563,79,"Programmer, applications",782,B
+1564,79,"Surveyor, building control",782,D
+1565,79,Radiation protection practitioner,783,B
+1566,79,Health physicist,783,E
+1567,79,"Education officer, community",784,A
+1568,79,"Accountant, chartered public finance",784,E
+1569,79,"Presenter, broadcasting",785,C
+1570,79,Management consultant,785,A
+1571,79,Immigration officer,786,E
+1572,79,Press sub,786,E
+1573,79,Art gallery manager,787,C
+1574,79,Amenity horticulturist,787,D
+1575,79,Armed forces training and education officer,788,D
+1576,79,Fish farm manager,788,C
+1577,79,Pharmacologist,789,D
+1578,79,"Chemist, analytical",789,B
+1579,79,Armed forces training and education officer,790,C
+1580,79,Mining engineer,790,E
+1581,80,"Psychotherapist, dance movement",791,C
+1582,80,"Therapist, speech and language",791,A
+1583,80,"Engineer, manufacturing systems",792,A
+1584,80,Commercial horticulturist,792,A
+1585,80,"Geologist, engineering",793,D
+1586,80,Adult nurse,793,C
+1587,80,Early years teacher,794,B
+1588,80,Public relations account executive,794,A
+1589,80,Trading standards officer,795,B
+1590,80,Art gallery manager,795,E
+1591,80,Broadcast engineer,796,A
+1592,80,Advertising account executive,796,C
+1593,80,Food technologist,797,E
+1594,80,Dancer,797,B
+1595,80,Primary school teacher,798,D
+1596,80,"Designer, interior/spatial",798,D
+1597,80,"Engineer, water",799,C
+1598,80,Field trials officer,799,E
+1599,80,English as a foreign language teacher,800,A
+1600,80,"Solicitor, Scotland",800,B
+1601,81,Adult nurse,801,A
+1602,81,"Biochemist, clinical",801,E
+1603,81,"Production assistant, radio",802,B
+1604,81,Records manager,802,A
+1605,81,Learning disability nurse,803,C
+1606,81,"Designer, blown glass/stained glass",803,B
+1607,81,Building surveyor,804,A
+1608,81,Biomedical engineer,804,D
+1609,81,"Therapist, occupational",805,E
+1610,81,Art therapist,805,D
+1611,81,Banker,806,D
+1612,81,Estate agent,806,E
+1613,81,Operational investment banker,807,A
+1614,81,"Geneticist, molecular",807,E
+1615,81,Acupuncturist,808,E
+1616,81,"Research officer, trade union",808,A
+1617,81,Games developer,809,E
+1618,81,Chiropodist,809,C
+1619,81,"Surveyor, building control",810,A
+1620,81,Dealer,810,B
+1621,82,Cartographer,811,A
+1622,82,Metallurgist,811,B
+1623,82,"Investment banker, operational",812,C
+1624,82,"Scientist, research (maths)",812,C
+1625,82,"Engineer, control and instrumentation",813,D
+1626,82,"Social research officer, government",813,C
+1627,82,Video editor,814,E
+1628,82,Web designer,814,A
+1629,82,"Engineer, mining",815,D
+1630,82,"Surveyor, mining",815,C
+1631,82,"Scientist, biomedical",816,A
+1632,82,Hydrographic surveyor,816,D
+1633,82,"Scientist, research (physical sciences)",817,E
+1634,82,Firefighter,817,C
+1635,82,"Designer, industrial/product",818,D
+1636,82,Electrical engineer,818,B
+1637,82,Manufacturing systems engineer,819,E
+1638,82,Broadcast engineer,819,C
+1639,82,Chiropractor,820,B
+1640,82,Higher education lecturer,820,D
+1641,83,Patent examiner,821,C
+1642,83,Pharmacologist,821,B
+1643,83,Rural practice surveyor,822,C
+1644,83,Forest/woodland manager,822,C
+1645,83,Senior tax professional/tax inspector,823,A
+1646,83,"Designer, ceramics/pottery",823,B
+1647,83,Clinical psychologist,824,E
+1648,83,Meteorologist,824,D
+1649,83,Occupational therapist,825,D
+1650,83,Community arts worker,825,A
+1651,83,Electronics engineer,826,C
+1652,83,Artist,826,E
+1653,83,Osteopath,827,C
+1654,83,"Surveyor, land/geomatics",827,C
+1655,83,Airline pilot,828,B
+1656,83,Systems developer,828,C
+1657,83,Glass blower/designer,829,A
+1658,83,"Teacher, primary school",829,C
+1659,83,International aid/development worker,830,B
+1660,83,Fashion designer,830,E
+1661,84,Adult guidance worker,831,B
+1662,84,Automotive engineer,831,C
+1663,84,Amenity horticulturist,832,D
+1664,84,Advertising copywriter,832,A
+1665,84,Facilities manager,833,E
+1666,84,Land,833,B
+1667,84,Clinical research associate,834,E
+1668,84,"Chemist, analytical",834,D
+1669,84,Higher education careers adviser,835,A
+1670,84,Furniture conservator/restorer,835,B
+1671,84,"Psychologist, prison and probation services",836,E
+1672,84,Barrister,836,A
+1673,84,Clinical biochemist,837,B
+1674,84,Pharmacologist,837,B
+1675,84,Facilities manager,838,C
+1676,84,Geochemist,838,B
+1677,84,Geoscientist,839,E
+1678,84,"Therapist, art",839,C
+1679,84,Tourism officer,840,B
+1680,84,Clinical psychologist,840,A
+1681,85,Control and instrumentation engineer,841,D
+1682,85,Sport and exercise psychologist,841,E
+1683,85,Commercial/residential surveyor,842,E
+1684,85,Metallurgist,842,D
+1685,85,Medical illustrator,843,E
+1686,85,"Geologist, engineering",843,A
+1687,85,Medical secretary,844,A
+1688,85,Audiological scientist,844,C
+1689,85,Biomedical scientist,845,B
+1690,85,Osteopath,845,D
+1691,85,"Horticulturist, amenity",846,B
+1692,85,Medical laboratory scientific officer,846,A
+1693,85,Health service manager,847,B
+1694,85,Actor,847,B
+1695,85,Corporate investment banker,848,C
+1696,85,Recruitment consultant,848,D
+1697,85,Legal executive,849,E
+1698,85,English as a second language teacher,849,E
+1699,85,"Engineer, energy",850,C
+1700,85,Call centre manager,850,D
+1701,86,Photographer,851,B
+1702,86,"Loss adjuster, chartered",851,E
+1703,86,"Social research officer, government",852,D
+1704,86,"Buyer, industrial",852,B
+1705,86,"Designer, television/film set",853,C
+1706,86,"Editor, commissioning",853,D
+1707,86,Water engineer,854,B
+1708,86,"Exhibitions officer, museum/gallery",854,E
+1709,86,Surgeon,855,A
+1710,86,Chartered management accountant,855,D
+1711,86,Historic buildings inspector/conservation officer,856,B
+1712,86,"Restaurant manager, fast food",856,C
+1713,86,Museum education officer,857,D
+1714,86,Barrister,857,C
+1715,86,Marketing executive,858,E
+1716,86,"Engineer, structural",858,B
+1717,86,"Psychologist, clinical",859,B
+1718,86,"Therapist, drama",859,E
+1719,86,Systems analyst,860,B
+1720,86,"Engineer, drilling",860,D
+1721,87,"Psychologist, sport and exercise",861,C
+1722,87,Risk analyst,861,A
+1723,87,"Civil engineer, consulting",862,E
+1724,87,Probation officer,862,B
+1725,87,"Engineer, chemical",863,B
+1726,87,Make,863,B
+1727,87,Translator,864,B
+1728,87,Intelligence analyst,864,E
+1729,87,Licensed conveyancer,865,D
+1730,87,Town planner,865,E
+1731,87,Water engineer,866,C
+1732,87,Agricultural consultant,866,B
+1733,87,Photographer,867,A
+1734,87,Clinical biochemist,867,D
+1735,87,Interpreter,868,D
+1736,87,Neurosurgeon,868,C
+1737,87,"Pharmacist, hospital",869,A
+1738,87,Midwife,869,E
+1739,87,Field trials officer,870,C
+1740,87,Consulting civil engineer,870,D
+1741,88,Midwife,871,D
+1742,88,Mining engineer,871,C
+1743,88,Network engineer,872,A
+1744,88,"Surveyor, land/geomatics",872,D
+1745,88,Herbalist,873,A
+1746,88,Energy engineer,873,C
+1747,88,"Engineer, maintenance (IT)",874,A
+1748,88,Broadcast presenter,874,C
+1749,88,Mudlogger,875,C
+1750,88,"Engineer, maintenance (IT)",875,B
+1751,88,"Education officer, museum",876,D
+1752,88,"Engineer, automotive",876,B
+1753,88,Art therapist,877,E
+1754,88,Leisure centre manager,877,A
+1755,88,Multimedia programmer,878,B
+1756,88,Biomedical scientist,878,A
+1757,88,Civil Service administrator,879,B
+1758,88,Trade union research officer,879,D
+1759,88,Sports therapist,880,C
+1760,88,Water engineer,880,C
+1761,89,Armed forces training and education officer,881,C
+1762,89,Medical sales representative,881,A
+1763,89,"Designer, ceramics/pottery",882,B
+1764,89,"Development worker, international aid",882,E
+1765,89,Materials engineer,883,D
+1766,89,"Psychologist, clinical",883,A
+1767,89,Pathologist,884,D
+1768,89,"Librarian, academic",884,C
+1769,89,Hydrologist,885,E
+1770,89,Horticultural consultant,885,C
+1771,89,IT technical support officer,886,B
+1772,89,Physiotherapist,886,D
+1773,89,Dramatherapist,887,D
+1774,89,Production engineer,887,A
+1775,89,Corporate investment banker,888,B
+1776,89,"Psychologist, forensic",888,B
+1777,89,Corporate treasurer,889,A
+1778,89,Outdoor activities/education manager,889,C
+1779,89,"Sound technician, broadcasting/film/video",890,A
+1780,89,Management consultant,890,C
+1781,90,Investment analyst,891,B
+1782,90,Community development worker,891,A
+1783,90,Air traffic controller,892,A
+1784,90,Dance movement psychotherapist,892,A
+1785,90,Marketing executive,893,D
+1786,90,"Journalist, magazine",893,B
+1787,90,"Engineer, electronics",894,B
+1788,90,Community education officer,894,B
+1789,90,Horticultural consultant,895,D
+1790,90,Medical laboratory scientific officer,895,E
+1791,90,Volunteer coordinator,896,A
+1792,90,Art therapist,896,A
+1793,90,Chief Marketing Officer,897,B
+1794,90,Primary school teacher,897,C
+1795,90,Statistician,898,D
+1796,90,Veterinary surgeon,898,A
+1797,90,Event organiser,899,A
+1798,90,"Administrator, sports",899,D
+1799,90,"Programme researcher, broadcasting/film/video",900,D
+1800,90,Publishing copy,900,C
+1801,91,Brewing technologist,901,B
+1802,91,Field seismologist,901,C
+1803,91,Call centre manager,902,E
+1804,91,"Engineer, energy",902,B
+1805,91,"Engineer, maintenance (IT)",903,E
+1806,91,"Therapist, sports",903,A
+1807,91,"Engineer, civil (consulting)",904,D
+1808,91,Market researcher,904,A
+1809,91,Meteorologist,905,E
+1810,91,Actor,905,E
+1811,91,Human resources officer,906,B
+1812,91,Health service manager,906,B
+1813,91,Acupuncturist,907,B
+1814,91,"Librarian, academic",907,E
+1815,91,Waste management officer,908,B
+1816,91,Barrister's clerk,908,A
+1817,91,Local government officer,909,C
+1818,91,"Development worker, international aid",909,D
+1819,91,Paediatric nurse,910,B
+1820,91,Careers information officer,910,C
+1821,92,Police officer,911,C
+1822,92,Stage manager,911,C
+1823,92,Dance movement psychotherapist,912,B
+1824,92,"Programmer, applications",912,E
+1825,92,Publishing copy,913,C
+1826,92,Software engineer,913,A
+1827,92,Interior and spatial designer,914,D
+1828,92,"Administrator, Civil Service",914,E
+1829,92,Minerals surveyor,915,C
+1830,92,Advice worker,915,A
+1831,92,Charity fundraiser,916,B
+1832,92,"Psychologist, occupational",916,E
+1833,92,"Radiographer, diagnostic",917,A
+1834,92,Actor,917,A
+1835,92,Firefighter,918,C
+1836,92,Secretary/administrator,918,A
+1837,92,Barrister,919,B
+1838,92,Clinical embryologist,919,E
+1839,92,Multimedia specialist,920,C
+1840,92,Child psychotherapist,920,E
+1841,93,Outdoor activities/education manager,921,D
+1842,93,Conference centre manager,921,B
+1843,93,Publishing rights manager,922,C
+1844,93,"Teacher, special educational needs",922,E
+1845,93,Tax adviser,923,A
+1846,93,Industrial buyer,923,A
+1847,93,"Teacher, primary school",924,D
+1848,93,Nature conservation officer,924,B
+1849,93,"Accountant, chartered public finance",925,C
+1850,93,Ship broker,925,A
+1851,93,Ambulance person,926,A
+1852,93,"Teacher, primary school",926,B
+1853,93,"Engineer, water",927,A
+1854,93,Dietitian,927,C
+1855,93,"Therapist, nutritional",928,D
+1856,93,"Editor, film/video",928,B
+1857,93,"Psychologist, counselling",929,E
+1858,93,"Editor, magazine features",929,A
+1859,93,Production manager,930,B
+1860,93,"Engineer, aeronautical",930,D
+1861,94,"Administrator, arts",931,D
+1862,94,Risk analyst,931,A
+1863,94,Armed forces technical officer,932,C
+1864,94,Sales executive,932,D
+1865,94,"Psychotherapist, dance movement",933,A
+1866,94,Radio producer,933,A
+1867,94,Network engineer,934,B
+1868,94,"Geologist, wellsite",934,E
+1869,94,Professor Emeritus,935,C
+1870,94,Lexicographer,935,A
+1871,94,Volunteer coordinator,936,D
+1872,94,Travel agency manager,936,D
+1873,94,Sport and exercise psychologist,937,B
+1874,94,Child psychotherapist,937,C
+1875,94,"Doctor, hospital",938,C
+1876,94,Teaching laboratory technician,938,C
+1877,94,Architect,939,D
+1878,94,Product/process development scientist,939,C
+1879,94,Radio producer,940,D
+1880,94,Quantity surveyor,940,C
+1881,95,"Geologist, engineering",941,C
+1882,95,Photographer,941,A
+1883,95,Equality and diversity officer,942,B
+1884,95,Armed forces training and education officer,942,B
+1885,95,Ambulance person,943,A
+1886,95,Land,943,B
+1887,95,Museum/gallery exhibitions officer,944,D
+1888,95,"Radiographer, diagnostic",944,A
+1889,95,Fashion designer,945,C
+1890,95,Trading standards officer,945,D
+1891,95,Theatre manager,946,C
+1892,95,Advice worker,946,B
+1893,95,Social researcher,947,E
+1894,95,"Engineer, communications",947,A
+1895,95,Tax adviser,948,A
+1896,95,"Lecturer, higher education",948,B
+1897,95,"Engineer, biomedical",949,A
+1898,95,"Designer, furniture",949,D
+1899,95,Hospital pharmacist,950,B
+1900,95,"Social research officer, government",950,B
+1901,96,Software engineer,951,D
+1902,96,"Education officer, environmental",951,C
+1903,96,Press sub,952,D
+1904,96,Writer,952,B
+1905,96,Claims inspector/assessor,953,A
+1906,96,Furniture conservator/restorer,953,E
+1907,96,Music therapist,954,B
+1908,96,"Engineer, water",954,C
+1909,96,Biomedical scientist,955,E
+1910,96,Warehouse manager,955,E
+1911,96,Merchant navy officer,956,E
+1912,96,Occupational psychologist,956,A
+1913,96,Database administrator,957,C
+1914,96,Paramedic,957,C
+1915,96,Social worker,958,C
+1916,96,Recruitment consultant,958,C
+1917,96,Civil Service administrator,959,D
+1918,96,"Geneticist, molecular",959,A
+1919,96,"Pharmacist, hospital",960,C
+1920,96,Marketing executive,960,A
+1921,97,Medical technical officer,961,B
+1922,97,Oceanographer,961,C
+1923,97,Market researcher,962,C
+1924,97,Paramedic,962,E
+1925,97,Games developer,963,A
+1926,97,Actor,963,A
+1927,97,"Engineer, manufacturing",964,B
+1928,97,"Programmer, systems",964,C
+1929,97,Medical technical officer,965,C
+1930,97,"Engineer, site",965,C
+1931,97,Chief Executive Officer,966,B
+1932,97,Investment analyst,966,E
+1933,97,"Administrator, charities/voluntary organisations",967,E
+1934,97,Mining engineer,967,B
+1935,97,Personal assistant,968,A
+1936,97,"Engineer, electronics",968,D
+1937,97,Theatre director,969,E
+1938,97,"Physicist, medical",969,C
+1939,97,Fish farm manager,970,E
+1940,97,Personnel officer,970,A
+1941,98,"Investment banker, corporate",971,E
+1942,98,Commercial art gallery manager,971,E
+1943,98,Adult guidance worker,972,D
+1944,98,"Engineer, maintenance (IT)",972,A
+1945,98,Hydrogeologist,973,E
+1946,98,Cabin crew,973,D
+1947,98,"Engineer, site",974,E
+1948,98,Immigration officer,974,D
+1949,98,Chartered certified accountant,975,C
+1950,98,"Engineer, energy",975,D
+1951,98,"Designer, jewellery",976,E
+1952,98,Fashion designer,976,D
+1953,98,Teaching laboratory technician,977,E
+1954,98,Politician's assistant,977,B
+1955,98,"Journalist, magazine",978,C
+1956,98,Hospital doctor,978,D
+1957,98,"Designer, graphic",979,C
+1958,98,Financial adviser,979,E
+1959,98,"Scientist, research (life sciences)",980,B
+1960,98,"Research officer, political party",980,A
+1961,99,Actor,981,D
+1962,99,"Conservator, museum/gallery",981,C
+1963,99,"Radiographer, diagnostic",982,C
+1964,99,Wellsite geologist,982,C
+1965,99,Brewing technologist,983,E
+1966,99,"Accountant, chartered certified",983,A
+1967,99,Insurance account manager,984,C
+1968,99,Probation officer,984,E
+1969,99,"Geologist, wellsite",985,C
+1970,99,"Engineer, civil (consulting)",985,C
+1971,99,"Scientist, biomedical",986,D
+1972,99,Speech and language therapist,986,A
+1973,99,Counselling psychologist,987,A
+1974,99,"Librarian, public",987,E
+1975,99,Industrial/product designer,988,E
+1976,99,Copy,988,B
+1977,99,Electrical engineer,989,C
+1978,99,Jewellery designer,989,C
+1979,99,Operations geologist,990,A
+1980,99,Hotel manager,990,E
+1981,100,Maintenance engineer,991,B
+1982,100,"Production designer, theatre/television/film",991,A
+1983,100,Race relations officer,992,D
+1984,100,Patent examiner,992,A
+1985,100,"Editor, film/video",993,C
+1986,100,"Therapist, music",993,B
+1987,100,Professor Emeritus,994,C
+1988,100,"Engineer, manufacturing systems",994,B
+1989,100,"Geneticist, molecular",995,C
+1990,100,Personnel officer,995,D
+1991,100,Press sub,996,B
+1992,100,Recycling officer,996,C
+1993,100,Biomedical engineer,997,D
+1994,100,"Lighting technician, broadcasting/film/video",997,E
+1995,100,Regulatory affairs officer,998,E
+1996,100,Lobbyist,998,E
+1997,100,Artist,999,E
+1998,100,Jewellery designer,999,A
+1999,100,"Research officer, trade union",1000,A
+2000,100,Medical sales representative,1000,A

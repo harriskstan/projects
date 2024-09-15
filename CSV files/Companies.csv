@@ -1,0 +1,101 @@
+CompanyID,CompanyName,Industry,LeadSource,CustomerSince,Geography
+1,Bisnis Indo,Energy,Direct,3/8/21,Philippines
+2,CV Nusantara,Utilities,Advertisement,23/2/20,Thailand
+3,Perusahaan Indo,Materials,Advertisement,9/9/20,Singapore
+4,Perusahaan Tekno,Industrials,Advertisement,24/8/18,Singapore
+5,CV Global,Financials,Referral,4/12/15,Thailand
+6,Korporasi Tekno,Financials,Social Media,11/1/15,Malaysia
+7,PT Global,Industrials,Direct,6/12/22,Hong Kong
+8,Korporasi Nusantara,Consumer Discretionary,Advertisement,9/3/22,Hong Kong
+9,CV Indo,Information Technology,Direct,14/6/22,Malaysia
+10,PT Tekno,Real Estate,Advertisement,27/11/18,Malaysia
+11,CV Asia,Real Estate,Website,29/9/14,Singapore
+12,Perusahaan Asia,Industrials,Advertisement,3/4/20,Philippines
+13,Bisnis Global,Financials,Direct,28/5/15,Malaysia
+14,Bisnis Nusantara,Health Care,Direct,2/4/19,Singapore
+15,Bisnis Zenith,Real Estate,Direct,30/11/17,Indonesia
+16,Enterprise Techno,Consumer Discretionary,Website,15/2/19,Thailand
+17,Corporation Asia,Health Care,Direct,21/10/18,Singapore
+18,Ventures Indo,Information Technology,Advertisement,4/3/21,Hong Kong
+19,Holdings Global,Utilities,Referral,26/9/15,Thailand
+20,Innovations Nusantara,Consumer Staples,Referral,30/10/18,Singapore
+21,Industries Indo,Health Care,Social Media,20/7/17,Malaysia
+22,CV Summit,Consumer Staples,Website,6/12/14,Thailand
+23,PT Horizon,Energy,Referral,7/4/16,Philippines
+24,Tech Solutions Asia,Consumer Staples,Social Media,2/8/17,Singapore
+25,Emerald Ventures,Materials,Advertisement,18/3/20,Thailand
+26,Pearl Holdings,Consumer Discretionary,Referral,8/7/14,Indonesia
+27,Ruby Innovations,Materials,Social Media,3/11/14,Philippines
+28,Sapphire Industries,Consumer Discretionary,Direct,27/7/21,Indonesia
+29,Opal Enterprises,Health Care,Direct,5/1/17,Hong Kong
+30,Jade Ventures,Real Estate,Direct,26/5/14,Hong Kong
+31,Coral Holdings,Financials,Referral,2/11/22,Malaysia
+32,Amethyst Innovations,Consumer Discretionary,Direct,13/1/16,Philippines
+33,Crystal Industries,Financials,Direct,21/10/14,Thailand
+34,Diamond Enterprises,Communication Services,Direct,26/7/19,Indonesia
+35,Quartz Ventures,Health Care,Website,7/7/19,Hong Kong
+36,Topaz Holdings,Communication Services,Direct,12/3/16,Indonesia
+37,Garnet Innovations,Communication Services,Website,17/12/15,Hong Kong
+38,Onyx Industries,Communication Services,Advertisement,9/10/14,Singapore
+39,Amber Enterprises,Information Technology,Advertisement,12/5/18,Thailand
+40,Agate Ventures,Information Technology,Direct,4/12/21,Indonesia
+41,Ivory Holdings,Materials,Advertisement,22/7/21,Thailand
+42,Ebony Innovations,Communication Services,Website,25/4/23,Hong Kong
+43,Maple Industries,Communication Services,Social Media,26/9/17,Indonesia
+44,Pine Enterprises,Utilities,Referral,17/6/14,Singapore
+45,Cedar Ventures,Energy,Advertisement,21/3/17,Indonesia
+46,Birch Holdings,Energy,Website,18/9/16,Hong Kong
+47,Redwood Innovations,Financials,Advertisement,5/8/19,Singapore
+48,Oak Industries,Health Care,Direct,25/6/19,Indonesia
+49,Willow Enterprises,Communication Services,Social Media,27/3/21,Hong Kong
+50,Cypress Ventures,Energy,Social Media,10/6/23,Indonesia
+51,Bamboo Holdings,Health Care,Advertisement,8/8/14,Malaysia
+52,Lotus Innovations,Materials,Referral,25/3/18,Thailand
+53,Cherry Industries,Real Estate,Website,5/10/20,Malaysia
+54,Plum Enterprises,Information Technology,Referral,29/12/20,Hong Kong
+55,Peach Ventures,Communication Services,Direct,13/12/14,Indonesia
+56,Almond Holdings,Communication Services,Social Media,25/6/21,Indonesia
+57,Hazelnut Innovations,Financials,Website,23/11/18,Indonesia
+58,Pecan Industries,Consumer Discretionary,Referral,3/12/22,Malaysia
+59,Walnut Enterprises,Financials,Direct,16/2/16,Thailand
+60,Chestnut Ventures,Materials,Social Media,21/4/20,Hong Kong
+61,Olive Holdings,Consumer Staples,Advertisement,15/2/22,Hong Kong
+62,Juniper Innovations,Real Estate,Direct,10/4/20,Thailand
+63,Magnolia Industries,Utilities,Social Media,30/9/19,Hong Kong
+64,Azalea Enterprises,Health Care,Website,20/11/16,Philippines
+65,Camellia Ventures,Information Technology,Website,21/5/20,Malaysia
+66,Gardenia Holdings,Communication Services,Social Media,3/10/19,Malaysia
+67,Hibiscus Innovations,Communication Services,Direct,10/1/23,Thailand
+68,Jasmine Industries,Materials,Advertisement,23/12/23,Philippines
+69,Lavender Enterprises,Consumer Discretionary,Referral,30/7/17,Thailand
+70,Marigold Ventures,Health Care,Website,26/11/14,Indonesia
+71,Orchid Holdings,Communication Services,Referral,21/4/16,Hong Kong
+72,Rose Innovations,Real Estate,Website,1/3/23,Thailand
+73,Tulip Industries,Materials,Advertisement,11/12/15,Hong Kong
+74,Violet Enterprises,Communication Services,Advertisement,9/12/23,Malaysia
+75,Zinnia Ventures,Financials,Website,12/2/23,Philippines
+76,Cosmos Holdings,Consumer Staples,Advertisement,28/3/19,Philippines
+77,Daffodil Innovations,Financials,Social Media,11/8/18,Singapore
+78,Daisy Industries,Communication Services,Social Media,31/5/15,Hong Kong
+79,Sunflower Enterprises,Materials,Advertisement,7/8/18,Thailand
+80,Lily Ventures,Information Technology,Referral,28/11/19,Singapore
+81,Poppy Holdings,Consumer Staples,Social Media,25/5/14,Thailand
+82,Iris Innovations,Real Estate,Social Media,4/9/16,Indonesia
+83,Petunia Industries,Industrials,Referral,10/9/23,Singapore
+84,Snapdragon Enterprises,Materials,Website,17/7/15,Hong Kong
+85,Bluebell Ventures,Consumer Discretionary,Website,30/11/20,Hong Kong
+86,Foxglove Holdings,Communication Services,Advertisement,1/5/18,Philippines
+87,Hollyhock Innovations,Communication Services,Direct,10/2/16,Malaysia
+88,Larkspur Industries,Communication Services,Website,8/1/15,Philippines
+89,Morning Glory Enterprises,Real Estate,Referral,13/7/19,Philippines
+90,Nasturtium Ventures,Communication Services,Direct,19/7/17,Singapore
+91,Pansy Holdings,Materials,Advertisement,14/3/15,Malaysia
+92,Phlox Innovations,Materials,Social Media,21/4/17,Philippines
+93,Primrose Industries,Consumer Staples,Social Media,25/11/14,Thailand
+94,Ranunculus Enterprises,Communication Services,Referral,24/6/22,Philippines
+95,Rudbeckia Ventures,Communication Services,Direct,11/12/18,Hong Kong
+96,Salvia Holdings,Real Estate,Social Media,2/8/20,Thailand
+97,Stock Innovations,Utilities,Referral,28/5/18,Singapore
+98,Verbena Industries,Real Estate,Referral,27/6/16,Hong Kong
+99,Wisteria Enterprises,Health Care,Direct,13/4/20,Malaysia
+100,Yarrow Ventures,Consumer Discretionary,Direct,17/6/14,Philippines

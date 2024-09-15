@@ -1,0 +1,501 @@
+LeaveTypeID,CompanyID,LeaveTypeName,LeaveDescription
+1,1,Annual Leave,Paid leave for vacation or personal matters.
+2,1,Sick Leave,Leave for illness or medical appointments.
+3,1,Maternity Leave,Leave for maternity purposes.
+4,1,Paternity Leave,Leave for paternity purposes.
+5,1,Compassionate Leave,Leave for family emergencies or bereavement.
+6,2,Annual Leave,Paid leave for vacation or personal matters.
+7,2,Sick Leave,Leave for illness or medical appointments.
+8,2,Maternity Leave,Leave for maternity purposes.
+9,2,Paternity Leave,Leave for paternity purposes.
+10,2,Compassionate Leave,Leave for family emergencies or bereavement.
+11,3,Annual Leave,Paid leave for vacation or personal matters.
+12,3,Sick Leave,Leave for illness or medical appointments.
+13,3,Maternity Leave,Leave for maternity purposes.
+14,3,Paternity Leave,Leave for paternity purposes.
+15,3,Compassionate Leave,Leave for family emergencies or bereavement.
+16,4,Annual Leave,Paid leave for vacation or personal matters.
+17,4,Sick Leave,Leave for illness or medical appointments.
+18,4,Maternity Leave,Leave for maternity purposes.
+19,4,Paternity Leave,Leave for paternity purposes.
+20,4,Compassionate Leave,Leave for family emergencies or bereavement.
+21,5,Annual Leave,Paid leave for vacation or personal matters.
+22,5,Sick Leave,Leave for illness or medical appointments.
+23,5,Maternity Leave,Leave for maternity purposes.
+24,5,Paternity Leave,Leave for paternity purposes.
+25,5,Compassionate Leave,Leave for family emergencies or bereavement.
+26,6,Annual Leave,Paid leave for vacation or personal matters.
+27,6,Sick Leave,Leave for illness or medical appointments.
+28,6,Maternity Leave,Leave for maternity purposes.
+29,6,Paternity Leave,Leave for paternity purposes.
+30,6,Compassionate Leave,Leave for family emergencies or bereavement.
+31,7,Annual Leave,Paid leave for vacation or personal matters.
+32,7,Sick Leave,Leave for illness or medical appointments.
+33,7,Maternity Leave,Leave for maternity purposes.
+34,7,Paternity Leave,Leave for paternity purposes.
+35,7,Compassionate Leave,Leave for family emergencies or bereavement.
+36,8,Annual Leave,Paid leave for vacation or personal matters.
+37,8,Sick Leave,Leave for illness or medical appointments.
+38,8,Maternity Leave,Leave for maternity purposes.
+39,8,Paternity Leave,Leave for paternity purposes.
+40,8,Compassionate Leave,Leave for family emergencies or bereavement.
+41,9,Annual Leave,Paid leave for vacation or personal matters.
+42,9,Sick Leave,Leave for illness or medical appointments.
+43,9,Maternity Leave,Leave for maternity purposes.
+44,9,Paternity Leave,Leave for paternity purposes.
+45,9,Compassionate Leave,Leave for family emergencies or bereavement.
+46,10,Annual Leave,Paid leave for vacation or personal matters.
+47,10,Sick Leave,Leave for illness or medical appointments.
+48,10,Maternity Leave,Leave for maternity purposes.
+49,10,Paternity Leave,Leave for paternity purposes.
+50,10,Compassionate Leave,Leave for family emergencies or bereavement.
+51,11,Annual Leave,Paid leave for vacation or personal matters.
+52,11,Sick Leave,Leave for illness or medical appointments.
+53,11,Maternity Leave,Leave for maternity purposes.
+54,11,Paternity Leave,Leave for paternity purposes.
+55,11,Compassionate Leave,Leave for family emergencies or bereavement.
+56,12,Annual Leave,Paid leave for vacation or personal matters.
+57,12,Sick Leave,Leave for illness or medical appointments.
+58,12,Maternity Leave,Leave for maternity purposes.
+59,12,Paternity Leave,Leave for paternity purposes.
+60,12,Compassionate Leave,Leave for family emergencies or bereavement.
+61,13,Annual Leave,Paid leave for vacation or personal matters.
+62,13,Sick Leave,Leave for illness or medical appointments.
+63,13,Maternity Leave,Leave for maternity purposes.
+64,13,Paternity Leave,Leave for paternity purposes.
+65,13,Compassionate Leave,Leave for family emergencies or bereavement.
+66,14,Annual Leave,Paid leave for vacation or personal matters.
+67,14,Sick Leave,Leave for illness or medical appointments.
+68,14,Maternity Leave,Leave for maternity purposes.
+69,14,Paternity Leave,Leave for paternity purposes.
+70,14,Compassionate Leave,Leave for family emergencies or bereavement.
+71,15,Annual Leave,Paid leave for vacation or personal matters.
+72,15,Sick Leave,Leave for illness or medical appointments.
+73,15,Maternity Leave,Leave for maternity purposes.
+74,15,Paternity Leave,Leave for paternity purposes.
+75,15,Compassionate Leave,Leave for family emergencies or bereavement.
+76,16,Annual Leave,Paid leave for vacation or personal matters.
+77,16,Sick Leave,Leave for illness or medical appointments.
+78,16,Maternity Leave,Leave for maternity purposes.
+79,16,Paternity Leave,Leave for paternity purposes.
+80,16,Compassionate Leave,Leave for family emergencies or bereavement.
+81,17,Annual Leave,Paid leave for vacation or personal matters.
+82,17,Sick Leave,Leave for illness or medical appointments.
+83,17,Maternity Leave,Leave for maternity purposes.
+84,17,Paternity Leave,Leave for paternity purposes.
+85,17,Compassionate Leave,Leave for family emergencies or bereavement.
+86,18,Annual Leave,Paid leave for vacation or personal matters.
+87,18,Sick Leave,Leave for illness or medical appointments.
+88,18,Maternity Leave,Leave for maternity purposes.
+89,18,Paternity Leave,Leave for paternity purposes.
+90,18,Compassionate Leave,Leave for family emergencies or bereavement.
+91,19,Annual Leave,Paid leave for vacation or personal matters.
+92,19,Sick Leave,Leave for illness or medical appointments.
+93,19,Maternity Leave,Leave for maternity purposes.
+94,19,Paternity Leave,Leave for paternity purposes.
+95,19,Compassionate Leave,Leave for family emergencies or bereavement.
+96,20,Annual Leave,Paid leave for vacation or personal matters.
+97,20,Sick Leave,Leave for illness or medical appointments.
+98,20,Maternity Leave,Leave for maternity purposes.
+99,20,Paternity Leave,Leave for paternity purposes.
+100,20,Compassionate Leave,Leave for family emergencies or bereavement.
+101,21,Annual Leave,Paid leave for vacation or personal matters.
+102,21,Sick Leave,Leave for illness or medical appointments.
+103,21,Maternity Leave,Leave for maternity purposes.
+104,21,Paternity Leave,Leave for paternity purposes.
+105,21,Compassionate Leave,Leave for family emergencies or bereavement.
+106,22,Annual Leave,Paid leave for vacation or personal matters.
+107,22,Sick Leave,Leave for illness or medical appointments.
+108,22,Maternity Leave,Leave for maternity purposes.
+109,22,Paternity Leave,Leave for paternity purposes.
+110,22,Compassionate Leave,Leave for family emergencies or bereavement.
+111,23,Annual Leave,Paid leave for vacation or personal matters.
+112,23,Sick Leave,Leave for illness or medical appointments.
+113,23,Maternity Leave,Leave for maternity purposes.
+114,23,Paternity Leave,Leave for paternity purposes.
+115,23,Compassionate Leave,Leave for family emergencies or bereavement.
+116,24,Annual Leave,Paid leave for vacation or personal matters.
+117,24,Sick Leave,Leave for illness or medical appointments.
+118,24,Maternity Leave,Leave for maternity purposes.
+119,24,Paternity Leave,Leave for paternity purposes.
+120,24,Compassionate Leave,Leave for family emergencies or bereavement.
+121,25,Annual Leave,Paid leave for vacation or personal matters.
+122,25,Sick Leave,Leave for illness or medical appointments.
+123,25,Maternity Leave,Leave for maternity purposes.
+124,25,Paternity Leave,Leave for paternity purposes.
+125,25,Compassionate Leave,Leave for family emergencies or bereavement.
+126,26,Annual Leave,Paid leave for vacation or personal matters.
+127,26,Sick Leave,Leave for illness or medical appointments.
+128,26,Maternity Leave,Leave for maternity purposes.
+129,26,Paternity Leave,Leave for paternity purposes.
+130,26,Compassionate Leave,Leave for family emergencies or bereavement.
+131,27,Annual Leave,Paid leave for vacation or personal matters.
+132,27,Sick Leave,Leave for illness or medical appointments.
+133,27,Maternity Leave,Leave for maternity purposes.
+134,27,Paternity Leave,Leave for paternity purposes.
+135,27,Compassionate Leave,Leave for family emergencies or bereavement.
+136,28,Annual Leave,Paid leave for vacation or personal matters.
+137,28,Sick Leave,Leave for illness or medical appointments.
+138,28,Maternity Leave,Leave for maternity purposes.
+139,28,Paternity Leave,Leave for paternity purposes.
+140,28,Compassionate Leave,Leave for family emergencies or bereavement.
+141,29,Annual Leave,Paid leave for vacation or personal matters.
+142,29,Sick Leave,Leave for illness or medical appointments.
+143,29,Maternity Leave,Leave for maternity purposes.
+144,29,Paternity Leave,Leave for paternity purposes.
+145,29,Compassionate Leave,Leave for family emergencies or bereavement.
+146,30,Annual Leave,Paid leave for vacation or personal matters.
+147,30,Sick Leave,Leave for illness or medical appointments.
+148,30,Maternity Leave,Leave for maternity purposes.
+149,30,Paternity Leave,Leave for paternity purposes.
+150,30,Compassionate Leave,Leave for family emergencies or bereavement.
+151,31,Annual Leave,Paid leave for vacation or personal matters.
+152,31,Sick Leave,Leave for illness or medical appointments.
+153,31,Maternity Leave,Leave for maternity purposes.
+154,31,Paternity Leave,Leave for paternity purposes.
+155,31,Compassionate Leave,Leave for family emergencies or bereavement.
+156,32,Annual Leave,Paid leave for vacation or personal matters.
+157,32,Sick Leave,Leave for illness or medical appointments.
+158,32,Maternity Leave,Leave for maternity purposes.
+159,32,Paternity Leave,Leave for paternity purposes.
+160,32,Compassionate Leave,Leave for family emergencies or bereavement.
+161,33,Annual Leave,Paid leave for vacation or personal matters.
+162,33,Sick Leave,Leave for illness or medical appointments.
+163,33,Maternity Leave,Leave for maternity purposes.
+164,33,Paternity Leave,Leave for paternity purposes.
+165,33,Compassionate Leave,Leave for family emergencies or bereavement.
+166,34,Annual Leave,Paid leave for vacation or personal matters.
+167,34,Sick Leave,Leave for illness or medical appointments.
+168,34,Maternity Leave,Leave for maternity purposes.
+169,34,Paternity Leave,Leave for paternity purposes.
+170,34,Compassionate Leave,Leave for family emergencies or bereavement.
+171,35,Annual Leave,Paid leave for vacation or personal matters.
+172,35,Sick Leave,Leave for illness or medical appointments.
+173,35,Maternity Leave,Leave for maternity purposes.
+174,35,Paternity Leave,Leave for paternity purposes.
+175,35,Compassionate Leave,Leave for family emergencies or bereavement.
+176,36,Annual Leave,Paid leave for vacation or personal matters.
+177,36,Sick Leave,Leave for illness or medical appointments.
+178,36,Maternity Leave,Leave for maternity purposes.
+179,36,Paternity Leave,Leave for paternity purposes.
+180,36,Compassionate Leave,Leave for family emergencies or bereavement.
+181,37,Annual Leave,Paid leave for vacation or personal matters.
+182,37,Sick Leave,Leave for illness or medical appointments.
+183,37,Maternity Leave,Leave for maternity purposes.
+184,37,Paternity Leave,Leave for paternity purposes.
+185,37,Compassionate Leave,Leave for family emergencies or bereavement.
+186,38,Annual Leave,Paid leave for vacation or personal matters.
+187,38,Sick Leave,Leave for illness or medical appointments.
+188,38,Maternity Leave,Leave for maternity purposes.
+189,38,Paternity Leave,Leave for paternity purposes.
+190,38,Compassionate Leave,Leave for family emergencies or bereavement.
+191,39,Annual Leave,Paid leave for vacation or personal matters.
+192,39,Sick Leave,Leave for illness or medical appointments.
+193,39,Maternity Leave,Leave for maternity purposes.
+194,39,Paternity Leave,Leave for paternity purposes.
+195,39,Compassionate Leave,Leave for family emergencies or bereavement.
+196,40,Annual Leave,Paid leave for vacation or personal matters.
+197,40,Sick Leave,Leave for illness or medical appointments.
+198,40,Maternity Leave,Leave for maternity purposes.
+199,40,Paternity Leave,Leave for paternity purposes.
+200,40,Compassionate Leave,Leave for family emergencies or bereavement.
+201,41,Annual Leave,Paid leave for vacation or personal matters.
+202,41,Sick Leave,Leave for illness or medical appointments.
+203,41,Maternity Leave,Leave for maternity purposes.
+204,41,Paternity Leave,Leave for paternity purposes.
+205,41,Compassionate Leave,Leave for family emergencies or bereavement.
+206,42,Annual Leave,Paid leave for vacation or personal matters.
+207,42,Sick Leave,Leave for illness or medical appointments.
+208,42,Maternity Leave,Leave for maternity purposes.
+209,42,Paternity Leave,Leave for paternity purposes.
+210,42,Compassionate Leave,Leave for family emergencies or bereavement.
+211,43,Annual Leave,Paid leave for vacation or personal matters.
+212,43,Sick Leave,Leave for illness or medical appointments.
+213,43,Maternity Leave,Leave for maternity purposes.
+214,43,Paternity Leave,Leave for paternity purposes.
+215,43,Compassionate Leave,Leave for family emergencies or bereavement.
+216,44,Annual Leave,Paid leave for vacation or personal matters.
+217,44,Sick Leave,Leave for illness or medical appointments.
+218,44,Maternity Leave,Leave for maternity purposes.
+219,44,Paternity Leave,Leave for paternity purposes.
+220,44,Compassionate Leave,Leave for family emergencies or bereavement.
+221,45,Annual Leave,Paid leave for vacation or personal matters.
+222,45,Sick Leave,Leave for illness or medical appointments.
+223,45,Maternity Leave,Leave for maternity purposes.
+224,45,Paternity Leave,Leave for paternity purposes.
+225,45,Compassionate Leave,Leave for family emergencies or bereavement.
+226,46,Annual Leave,Paid leave for vacation or personal matters.
+227,46,Sick Leave,Leave for illness or medical appointments.
+228,46,Maternity Leave,Leave for maternity purposes.
+229,46,Paternity Leave,Leave for paternity purposes.
+230,46,Compassionate Leave,Leave for family emergencies or bereavement.
+231,47,Annual Leave,Paid leave for vacation or personal matters.
+232,47,Sick Leave,Leave for illness or medical appointments.
+233,47,Maternity Leave,Leave for maternity purposes.
+234,47,Paternity Leave,Leave for paternity purposes.
+235,47,Compassionate Leave,Leave for family emergencies or bereavement.
+236,48,Annual Leave,Paid leave for vacation or personal matters.
+237,48,Sick Leave,Leave for illness or medical appointments.
+238,48,Maternity Leave,Leave for maternity purposes.
+239,48,Paternity Leave,Leave for paternity purposes.
+240,48,Compassionate Leave,Leave for family emergencies or bereavement.
+241,49,Annual Leave,Paid leave for vacation or personal matters.
+242,49,Sick Leave,Leave for illness or medical appointments.
+243,49,Maternity Leave,Leave for maternity purposes.
+244,49,Paternity Leave,Leave for paternity purposes.
+245,49,Compassionate Leave,Leave for family emergencies or bereavement.
+246,50,Annual Leave,Paid leave for vacation or personal matters.
+247,50,Sick Leave,Leave for illness or medical appointments.
+248,50,Maternity Leave,Leave for maternity purposes.
+249,50,Paternity Leave,Leave for paternity purposes.
+250,50,Compassionate Leave,Leave for family emergencies or bereavement.
+251,51,Annual Leave,Paid leave for vacation or personal matters.
+252,51,Sick Leave,Leave for illness or medical appointments.
+253,51,Maternity Leave,Leave for maternity purposes.
+254,51,Paternity Leave,Leave for paternity purposes.
+255,51,Compassionate Leave,Leave for family emergencies or bereavement.
+256,52,Annual Leave,Paid leave for vacation or personal matters.
+257,52,Sick Leave,Leave for illness or medical appointments.
+258,52,Maternity Leave,Leave for maternity purposes.
+259,52,Paternity Leave,Leave for paternity purposes.
+260,52,Compassionate Leave,Leave for family emergencies or bereavement.
+261,53,Annual Leave,Paid leave for vacation or personal matters.
+262,53,Sick Leave,Leave for illness or medical appointments.
+263,53,Maternity Leave,Leave for maternity purposes.
+264,53,Paternity Leave,Leave for paternity purposes.
+265,53,Compassionate Leave,Leave for family emergencies or bereavement.
+266,54,Annual Leave,Paid leave for vacation or personal matters.
+267,54,Sick Leave,Leave for illness or medical appointments.
+268,54,Maternity Leave,Leave for maternity purposes.
+269,54,Paternity Leave,Leave for paternity purposes.
+270,54,Compassionate Leave,Leave for family emergencies or bereavement.
+271,55,Annual Leave,Paid leave for vacation or personal matters.
+272,55,Sick Leave,Leave for illness or medical appointments.
+273,55,Maternity Leave,Leave for maternity purposes.
+274,55,Paternity Leave,Leave for paternity purposes.
+275,55,Compassionate Leave,Leave for family emergencies or bereavement.
+276,56,Annual Leave,Paid leave for vacation or personal matters.
+277,56,Sick Leave,Leave for illness or medical appointments.
+278,56,Maternity Leave,Leave for maternity purposes.
+279,56,Paternity Leave,Leave for paternity purposes.
+280,56,Compassionate Leave,Leave for family emergencies or bereavement.
+281,57,Annual Leave,Paid leave for vacation or personal matters.
+282,57,Sick Leave,Leave for illness or medical appointments.
+283,57,Maternity Leave,Leave for maternity purposes.
+284,57,Paternity Leave,Leave for paternity purposes.
+285,57,Compassionate Leave,Leave for family emergencies or bereavement.
+286,58,Annual Leave,Paid leave for vacation or personal matters.
+287,58,Sick Leave,Leave for illness or medical appointments.
+288,58,Maternity Leave,Leave for maternity purposes.
+289,58,Paternity Leave,Leave for paternity purposes.
+290,58,Compassionate Leave,Leave for family emergencies or bereavement.
+291,59,Annual Leave,Paid leave for vacation or personal matters.
+292,59,Sick Leave,Leave for illness or medical appointments.
+293,59,Maternity Leave,Leave for maternity purposes.
+294,59,Paternity Leave,Leave for paternity purposes.
+295,59,Compassionate Leave,Leave for family emergencies or bereavement.
+296,60,Annual Leave,Paid leave for vacation or personal matters.
+297,60,Sick Leave,Leave for illness or medical appointments.
+298,60,Maternity Leave,Leave for maternity purposes.
+299,60,Paternity Leave,Leave for paternity purposes.
+300,60,Compassionate Leave,Leave for family emergencies or bereavement.
+301,61,Annual Leave,Paid leave for vacation or personal matters.
+302,61,Sick Leave,Leave for illness or medical appointments.
+303,61,Maternity Leave,Leave for maternity purposes.
+304,61,Paternity Leave,Leave for paternity purposes.
+305,61,Compassionate Leave,Leave for family emergencies or bereavement.
+306,62,Annual Leave,Paid leave for vacation or personal matters.
+307,62,Sick Leave,Leave for illness or medical appointments.
+308,62,Maternity Leave,Leave for maternity purposes.
+309,62,Paternity Leave,Leave for paternity purposes.
+310,62,Compassionate Leave,Leave for family emergencies or bereavement.
+311,63,Annual Leave,Paid leave for vacation or personal matters.
+312,63,Sick Leave,Leave for illness or medical appointments.
+313,63,Maternity Leave,Leave for maternity purposes.
+314,63,Paternity Leave,Leave for paternity purposes.
+315,63,Compassionate Leave,Leave for family emergencies or bereavement.
+316,64,Annual Leave,Paid leave for vacation or personal matters.
+317,64,Sick Leave,Leave for illness or medical appointments.
+318,64,Maternity Leave,Leave for maternity purposes.
+319,64,Paternity Leave,Leave for paternity purposes.
+320,64,Compassionate Leave,Leave for family emergencies or bereavement.
+321,65,Annual Leave,Paid leave for vacation or personal matters.
+322,65,Sick Leave,Leave for illness or medical appointments.
+323,65,Maternity Leave,Leave for maternity purposes.
+324,65,Paternity Leave,Leave for paternity purposes.
+325,65,Compassionate Leave,Leave for family emergencies or bereavement.
+326,66,Annual Leave,Paid leave for vacation or personal matters.
+327,66,Sick Leave,Leave for illness or medical appointments.
+328,66,Maternity Leave,Leave for maternity purposes.
+329,66,Paternity Leave,Leave for paternity purposes.
+330,66,Compassionate Leave,Leave for family emergencies or bereavement.
+331,67,Annual Leave,Paid leave for vacation or personal matters.
+332,67,Sick Leave,Leave for illness or medical appointments.
+333,67,Maternity Leave,Leave for maternity purposes.
+334,67,Paternity Leave,Leave for paternity purposes.
+335,67,Compassionate Leave,Leave for family emergencies or bereavement.
+336,68,Annual Leave,Paid leave for vacation or personal matters.
+337,68,Sick Leave,Leave for illness or medical appointments.
+338,68,Maternity Leave,Leave for maternity purposes.
+339,68,Paternity Leave,Leave for paternity purposes.
+340,68,Compassionate Leave,Leave for family emergencies or bereavement.
+341,69,Annual Leave,Paid leave for vacation or personal matters.
+342,69,Sick Leave,Leave for illness or medical appointments.
+343,69,Maternity Leave,Leave for maternity purposes.
+344,69,Paternity Leave,Leave for paternity purposes.
+345,69,Compassionate Leave,Leave for family emergencies or bereavement.
+346,70,Annual Leave,Paid leave for vacation or personal matters.
+347,70,Sick Leave,Leave for illness or medical appointments.
+348,70,Maternity Leave,Leave for maternity purposes.
+349,70,Paternity Leave,Leave for paternity purposes.
+350,70,Compassionate Leave,Leave for family emergencies or bereavement.
+351,71,Annual Leave,Paid leave for vacation or personal matters.
+352,71,Sick Leave,Leave for illness or medical appointments.
+353,71,Maternity Leave,Leave for maternity purposes.
+354,71,Paternity Leave,Leave for paternity purposes.
+355,71,Compassionate Leave,Leave for family emergencies or bereavement.
+356,72,Annual Leave,Paid leave for vacation or personal matters.
+357,72,Sick Leave,Leave for illness or medical appointments.
+358,72,Maternity Leave,Leave for maternity purposes.
+359,72,Paternity Leave,Leave for paternity purposes.
+360,72,Compassionate Leave,Leave for family emergencies or bereavement.
+361,73,Annual Leave,Paid leave for vacation or personal matters.
+362,73,Sick Leave,Leave for illness or medical appointments.
+363,73,Maternity Leave,Leave for maternity purposes.
+364,73,Paternity Leave,Leave for paternity purposes.
+365,73,Compassionate Leave,Leave for family emergencies or bereavement.
+366,74,Annual Leave,Paid leave for vacation or personal matters.
+367,74,Sick Leave,Leave for illness or medical appointments.
+368,74,Maternity Leave,Leave for maternity purposes.
+369,74,Paternity Leave,Leave for paternity purposes.
+370,74,Compassionate Leave,Leave for family emergencies or bereavement.
+371,75,Annual Leave,Paid leave for vacation or personal matters.
+372,75,Sick Leave,Leave for illness or medical appointments.
+373,75,Maternity Leave,Leave for maternity purposes.
+374,75,Paternity Leave,Leave for paternity purposes.
+375,75,Compassionate Leave,Leave for family emergencies or bereavement.
+376,76,Annual Leave,Paid leave for vacation or personal matters.
+377,76,Sick Leave,Leave for illness or medical appointments.
+378,76,Maternity Leave,Leave for maternity purposes.
+379,76,Paternity Leave,Leave for paternity purposes.
+380,76,Compassionate Leave,Leave for family emergencies or bereavement.
+381,77,Annual Leave,Paid leave for vacation or personal matters.
+382,77,Sick Leave,Leave for illness or medical appointments.
+383,77,Maternity Leave,Leave for maternity purposes.
+384,77,Paternity Leave,Leave for paternity purposes.
+385,77,Compassionate Leave,Leave for family emergencies or bereavement.
+386,78,Annual Leave,Paid leave for vacation or personal matters.
+387,78,Sick Leave,Leave for illness or medical appointments.
+388,78,Maternity Leave,Leave for maternity purposes.
+389,78,Paternity Leave,Leave for paternity purposes.
+390,78,Compassionate Leave,Leave for family emergencies or bereavement.
+391,79,Annual Leave,Paid leave for vacation or personal matters.
+392,79,Sick Leave,Leave for illness or medical appointments.
+393,79,Maternity Leave,Leave for maternity purposes.
+394,79,Paternity Leave,Leave for paternity purposes.
+395,79,Compassionate Leave,Leave for family emergencies or bereavement.
+396,80,Annual Leave,Paid leave for vacation or personal matters.
+397,80,Sick Leave,Leave for illness or medical appointments.
+398,80,Maternity Leave,Leave for maternity purposes.
+399,80,Paternity Leave,Leave for paternity purposes.
+400,80,Compassionate Leave,Leave for family emergencies or bereavement.
+401,81,Annual Leave,Paid leave for vacation or personal matters.
+402,81,Sick Leave,Leave for illness or medical appointments.
+403,81,Maternity Leave,Leave for maternity purposes.
+404,81,Paternity Leave,Leave for paternity purposes.
+405,81,Compassionate Leave,Leave for family emergencies or bereavement.
+406,82,Annual Leave,Paid leave for vacation or personal matters.
+407,82,Sick Leave,Leave for illness or medical appointments.
+408,82,Maternity Leave,Leave for maternity purposes.
+409,82,Paternity Leave,Leave for paternity purposes.
+410,82,Compassionate Leave,Leave for family emergencies or bereavement.
+411,83,Annual Leave,Paid leave for vacation or personal matters.
+412,83,Sick Leave,Leave for illness or medical appointments.
+413,83,Maternity Leave,Leave for maternity purposes.
+414,83,Paternity Leave,Leave for paternity purposes.
+415,83,Compassionate Leave,Leave for family emergencies or bereavement.
+416,84,Annual Leave,Paid leave for vacation or personal matters.
+417,84,Sick Leave,Leave for illness or medical appointments.
+418,84,Maternity Leave,Leave for maternity purposes.
+419,84,Paternity Leave,Leave for paternity purposes.
+420,84,Compassionate Leave,Leave for family emergencies or bereavement.
+421,85,Annual Leave,Paid leave for vacation or personal matters.
+422,85,Sick Leave,Leave for illness or medical appointments.
+423,85,Maternity Leave,Leave for maternity purposes.
+424,85,Paternity Leave,Leave for paternity purposes.
+425,85,Compassionate Leave,Leave for family emergencies or bereavement.
+426,86,Annual Leave,Paid leave for vacation or personal matters.
+427,86,Sick Leave,Leave for illness or medical appointments.
+428,86,Maternity Leave,Leave for maternity purposes.
+429,86,Paternity Leave,Leave for paternity purposes.
+430,86,Compassionate Leave,Leave for family emergencies or bereavement.
+431,87,Annual Leave,Paid leave for vacation or personal matters.
+432,87,Sick Leave,Leave for illness or medical appointments.
+433,87,Maternity Leave,Leave for maternity purposes.
+434,87,Paternity Leave,Leave for paternity purposes.
+435,87,Compassionate Leave,Leave for family emergencies or bereavement.
+436,88,Annual Leave,Paid leave for vacation or personal matters.
+437,88,Sick Leave,Leave for illness or medical appointments.
+438,88,Maternity Leave,Leave for maternity purposes.
+439,88,Paternity Leave,Leave for paternity purposes.
+440,88,Compassionate Leave,Leave for family emergencies or bereavement.
+441,89,Annual Leave,Paid leave for vacation or personal matters.
+442,89,Sick Leave,Leave for illness or medical appointments.
+443,89,Maternity Leave,Leave for maternity purposes.
+444,89,Paternity Leave,Leave for paternity purposes.
+445,89,Compassionate Leave,Leave for family emergencies or bereavement.
+446,90,Annual Leave,Paid leave for vacation or personal matters.
+447,90,Sick Leave,Leave for illness or medical appointments.
+448,90,Maternity Leave,Leave for maternity purposes.
+449,90,Paternity Leave,Leave for paternity purposes.
+450,90,Compassionate Leave,Leave for family emergencies or bereavement.
+451,91,Annual Leave,Paid leave for vacation or personal matters.
+452,91,Sick Leave,Leave for illness or medical appointments.
+453,91,Maternity Leave,Leave for maternity purposes.
+454,91,Paternity Leave,Leave for paternity purposes.
+455,91,Compassionate Leave,Leave for family emergencies or bereavement.
+456,92,Annual Leave,Paid leave for vacation or personal matters.
+457,92,Sick Leave,Leave for illness or medical appointments.
+458,92,Maternity Leave,Leave for maternity purposes.
+459,92,Paternity Leave,Leave for paternity purposes.
+460,92,Compassionate Leave,Leave for family emergencies or bereavement.
+461,93,Annual Leave,Paid leave for vacation or personal matters.
+462,93,Sick Leave,Leave for illness or medical appointments.
+463,93,Maternity Leave,Leave for maternity purposes.
+464,93,Paternity Leave,Leave for paternity purposes.
+465,93,Compassionate Leave,Leave for family emergencies or bereavement.
+466,94,Annual Leave,Paid leave for vacation or personal matters.
+467,94,Sick Leave,Leave for illness or medical appointments.
+468,94,Maternity Leave,Leave for maternity purposes.
+469,94,Paternity Leave,Leave for paternity purposes.
+470,94,Compassionate Leave,Leave for family emergencies or bereavement.
+471,95,Annual Leave,Paid leave for vacation or personal matters.
+472,95,Sick Leave,Leave for illness or medical appointments.
+473,95,Maternity Leave,Leave for maternity purposes.
+474,95,Paternity Leave,Leave for paternity purposes.
+475,95,Compassionate Leave,Leave for family emergencies or bereavement.
+476,96,Annual Leave,Paid leave for vacation or personal matters.
+477,96,Sick Leave,Leave for illness or medical appointments.
+478,96,Maternity Leave,Leave for maternity purposes.
+479,96,Paternity Leave,Leave for paternity purposes.
+480,96,Compassionate Leave,Leave for family emergencies or bereavement.
+481,97,Annual Leave,Paid leave for vacation or personal matters.
+482,97,Sick Leave,Leave for illness or medical appointments.
+483,97,Maternity Leave,Leave for maternity purposes.
+484,97,Paternity Leave,Leave for paternity purposes.
+485,97,Compassionate Leave,Leave for family emergencies or bereavement.
+486,98,Annual Leave,Paid leave for vacation or personal matters.
+487,98,Sick Leave,Leave for illness or medical appointments.
+488,98,Maternity Leave,Leave for maternity purposes.
+489,98,Paternity Leave,Leave for paternity purposes.
+490,98,Compassionate Leave,Leave for family emergencies or bereavement.
+491,99,Annual Leave,Paid leave for vacation or personal matters.
+492,99,Sick Leave,Leave for illness or medical appointments.
+493,99,Maternity Leave,Leave for maternity purposes.
+494,99,Paternity Leave,Leave for paternity purposes.
+495,99,Compassionate Leave,Leave for family emergencies or bereavement.
+496,100,Annual Leave,Paid leave for vacation or personal matters.
+497,100,Sick Leave,Leave for illness or medical appointments.
+498,100,Maternity Leave,Leave for maternity purposes.
+499,100,Paternity Leave,Leave for paternity purposes.
+500,100,Compassionate Leave,Leave for family emergencies or bereavement.
