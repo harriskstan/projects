@@ -27,16 +27,16 @@
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
             border: 1px solid #ddd;
             border-radius: 12px;
-            width: 85%; /* Changed to 85% of screen width */
+            width: 85%;
             max-width: 90vw;
             transition: box-shadow 0.3s ease;
         }
         .project:hover {
-            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Subtle hover effect */
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
         }
         .project h3 {
             text-align: center;
-            font-size: 1.6em; /* Increased font size */
+            font-size: 1.6em;
             color: #333;
             margin-bottom: 20px;
         }
@@ -46,7 +46,7 @@
             border: 1px solid #ccc;
             border-radius: 8px;
             overflow: hidden;
-            margin: auto; /* Center the PDF */
+            margin: auto;
         }
         .navigation {
             text-align: center;
@@ -65,7 +65,7 @@
         }
         .navigation button:hover {
             background-color: #0056b3;
-            transform: scale(1.05); /* Slight hover scaling */
+            transform: scale(1.05);
         }
         .github-link {
             margin-top: 20px;
@@ -123,7 +123,6 @@
     <!-- Add PDF.js library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
     <script>
-        // Initialize PDF.js for all projects
         const projects = document.querySelectorAll('.project');
 
         projects.forEach((project) => {
@@ -144,13 +143,13 @@
                 pdfDoc.getPage(num).then((page) => {
                     const canvas = document.createElement('canvas');
                     const ctx = canvas.getContext('2d');
+                    const currentScroll = window.scrollY; // Save current scroll position
+
                     pdfContainer.innerHTML = ''; // Clear previous canvas
                     pdfContainer.appendChild(canvas);
 
-                    // Get the viewport with the desired scale
                     const viewport = page.getViewport({ scale: pdfContainer.offsetWidth / page.getViewport({ scale: 1 }).width });
 
-                    // Set up high-resolution rendering
                     const outputScale = window.devicePixelRatio || 1;
                     canvas.width = Math.floor(viewport.width * outputScale);
                     canvas.height = Math.floor(viewport.height * outputScale);
@@ -160,11 +159,12 @@
                     const renderContext = {
                         canvasContext: ctx,
                         viewport: viewport,
-                        transform: [outputScale, 0, 0, outputScale, 0, 0], // Apply the scaling transformation
+                        transform: [outputScale, 0, 0, outputScale, 0, 0],
                     };
 
                     page.render(renderContext).promise.then(() => {
                         pageIsRendering = false;
+                        window.scrollTo(0, currentScroll); // Restore scroll position
                     });
 
                     currentPageElem.textContent = num;
@@ -188,14 +188,12 @@
                 queueRenderPage(pageNum);
             };
 
-            // Load the PDF
             pdfjsLib.getDocument(pdfUrl).promise.then((pdfDoc_) => {
                 pdfDoc = pdfDoc_;
                 totalPagesElem.textContent = pdfDoc.numPages;
                 renderPage(pageNum);
             });
 
-            // Event listeners for navigation
             prevButton.addEventListener('click', showPrevPage);
             nextButton.addEventListener('click', showNextPage);
         });
