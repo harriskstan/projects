@@ -26,7 +26,7 @@
             margin: 40px 20px 60px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
-            width: 80%;
+            width: 90%; /* Set to 90% of screen width */
             max-width: 90vw;
         }
         .project h3 {
@@ -35,10 +35,10 @@
         .pdf-container {
             position: relative;
             width: 100%;
-            height: 600px;
             border: 1px solid #ccc;
             border-radius: 5px;
             overflow: hidden;
+            margin: auto; /* Center the PDF */
         }
         .navigation {
             text-align: center;
@@ -134,14 +134,17 @@
 
                 pdfDoc.getPage(num).then((page) => {
                     const canvas = document.createElement('canvas');
+                    const ctx = canvas.getContext('2d');
                     pdfContainer.innerHTML = ''; // Clear previous canvas
                     pdfContainer.appendChild(canvas);
 
-                    const ctx = canvas.getContext('2d');
-                    const viewport = page.getViewport({ scale: 1.5 });
-
+                    // Set the viewport dynamically
+                    const viewport = page.getViewport({ scale: pdfContainer.offsetWidth / page.getViewport({ scale: 1 }).width });
                     canvas.width = viewport.width;
                     canvas.height = viewport.height;
+
+                    // Adjust the container's height to match the canvas
+                    pdfContainer.style.height = `${viewport.height}px`;
 
                     const renderCtx = {
                         canvasContext: ctx,
@@ -187,4 +190,3 @@
     </script>
 </body>
 </html>
-
