@@ -22,21 +22,29 @@
         }
         .project {
             background-color: #ffffff;
-            padding: 20px;
+            padding: 25px;
             margin: 40px 20px 60px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-            width: 80%; /* Back to 80% of screen width */
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+            border: 1px solid #ddd;
+            border-radius: 12px;
+            width: 85%; /* Changed to 85% of screen width */
             max-width: 90vw;
+            transition: box-shadow 0.3s ease;
+        }
+        .project:hover {
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Subtle hover effect */
         }
         .project h3 {
             text-align: center;
+            font-size: 1.6em; /* Increased font size */
+            color: #333;
+            margin-bottom: 20px;
         }
         .pdf-container {
             position: relative;
             width: 100%;
             border: 1px solid #ccc;
-            border-radius: 5px;
+            border-radius: 8px;
             overflow: hidden;
             margin: auto; /* Center the PDF */
         }
@@ -53,10 +61,11 @@
             cursor: pointer;
             font-size: 16px;
             border-radius: 5px;
-            transition: background-color 0.3s ease;
+            transition: background-color 0.3s ease, transform 0.2s ease;
         }
         .navigation button:hover {
             background-color: #0056b3;
+            transform: scale(1.05); /* Slight hover scaling */
         }
         .github-link {
             margin-top: 20px;
