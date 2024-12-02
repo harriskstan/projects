@@ -26,7 +26,7 @@
             margin: 40px 20px 60px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
-            width: 80%; /* Set back to 80% of screen width */
+            width: 80%; /* Back to 80% of screen width */
             max-width: 90vw;
         }
         .project h3 {
@@ -138,20 +138,23 @@
                     pdfContainer.innerHTML = ''; // Clear previous canvas
                     pdfContainer.appendChild(canvas);
 
-                    // Set the viewport dynamically
+                    // Get the viewport with the desired scale
                     const viewport = page.getViewport({ scale: pdfContainer.offsetWidth / page.getViewport({ scale: 1 }).width });
-                    canvas.width = viewport.width;
-                    canvas.height = viewport.height;
 
-                    // Adjust the container's height to match the canvas
-                    pdfContainer.style.height = `${viewport.height}px`;
+                    // Set up high-resolution rendering
+                    const outputScale = window.devicePixelRatio || 1;
+                    canvas.width = Math.floor(viewport.width * outputScale);
+                    canvas.height = Math.floor(viewport.height * outputScale);
+                    canvas.style.width = `${viewport.width}px`;
+                    canvas.style.height = `${viewport.height}px`;
 
-                    const renderCtx = {
+                    const renderContext = {
                         canvasContext: ctx,
                         viewport: viewport,
+                        transform: [outputScale, 0, 0, outputScale, 0, 0], // Apply the scaling transformation
                     };
 
-                    page.render(renderCtx).promise.then(() => {
+                    page.render(renderContext).promise.then(() => {
                         pageIsRendering = false;
                     });
 
