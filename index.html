@@ -54,9 +54,9 @@
             margin-top: 10px;
         }
         .navigation button {
-            background-color: #007BFF;
+            background: #dbdbdb;
+            color: #000;
             border: none;
-            color: white;
             width: 120px;
             padding: 10px 15px;
             margin: 5px 15px 0;
@@ -66,7 +66,7 @@
             transition: background-color 0.3s ease, transform 0.2s ease;
         }
         .navigation button:hover {
-            background-color: #0056b3;
+            background-color: #cfdccb;
             transform: scale(1.05);
         }
         .github-link {
@@ -93,7 +93,7 @@
             margin-right: 8px;
         }
 
-        @media (max-width: 700px) {
+        @media (max-width: 800px) {
             .container {
                 padding: 40px 0;
             }
@@ -111,14 +111,18 @@
 
             .navigation {
                 margin-top: 0;
+                font-size: 14px;
             }
 
             .navigation button {
                 width: 100px;
                 padding: 10px 0;
-                margin: 5px 10px 0;
+                margin: 0 10px;
                 cursor: pointer;
                 font-size: 14px;
+                background: #dbdbdb;
+                color: #000;
+                border-radius: 0;
             }
         }
     </style>
