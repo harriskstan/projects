@@ -49,6 +49,11 @@
             overflow: hidden;
             margin: auto;
         }
+
+        .download {
+            display: none;
+        }
+        
         .navigation {
             text-align: center;
             margin-top: 10px;
@@ -66,7 +71,8 @@
             transition: background-color 0.3s ease, transform 0.2s ease;
         }
         .navigation button:hover {
-            background-color: #cfdccb;
+            background-color: #02895f;
+            color: #fff;
             transform: scale(1.05);
         }
         .github-link {
@@ -93,7 +99,7 @@
             margin-right: 8px;
         }
 
-        @media (max-width: 800px) {
+        @media (max-width: 700px) {
             .container {
                 padding: 40px 0;
             }
@@ -109,20 +115,12 @@
                 font-size: 1.4em;
             }
 
-            .navigation span {
-                margin-top: 0;
-                font-size: 14px;
+            .navigation {
+                display: none;
             }
 
-            .navigation button {
-                width: 100px;
-                padding: 10px 0;
-                margin: 0 10px;
-                cursor: pointer;
-                font-size: 14px;
-                background: #dbdbdb;
-                color: #000;
-                border-radius: 0;
+            .download {
+                display: flex;
             }
         }
     </style>
@@ -132,6 +130,7 @@
         <div class="project" data-pdf="SQL database agent/Presentation/Database agent.pdf">
             <h3>Data Analysis Agent</h3>
             <div class="pdf-container"></div>
+            <div class="download"><a href="https://github.com/harriskstan/projects/blob/main/SQL%20database%20agent/Presentation/Database%20agent.pdf" download>Download PDF</a></div>
             <div class="navigation">
                 <button class="prev-page">Previous</button>
                 <span>Page: <span class="current-page"></span> / <span class="total-pages"></span></span>
@@ -141,6 +140,7 @@
         <div class="project" data-pdf="Virtual therapy agent/Virtual therapy agent.pdf">
             <h3>Virtual Therapy Agent</h3>
             <div class="pdf-container"></div>
+            <div class="download"><a href="https://github.com/harriskstan/projects/blob/main/Virtual%20therapy%20agent/Virtual%20therapy%20agent.pdf" download>Download PDF</a></div>
             <div class="navigation">
                 <button class="prev-page">Previous</button>
                 <span>Page: <span class="current-page"></span> / <span class="total-pages"></span></span>
