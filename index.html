@@ -35,6 +35,9 @@
         .project:hover {
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
         }
+        .project.last-project {
+            margin: 40px 20px 20px;
+        }
         .project h3 {
             text-align: center;
             font-size: 1.6em;
@@ -88,15 +91,15 @@
             justify-content: center;
             transition: color 0.3s ease, text-decoration 0.3s ease;
             padding: 30px;
-            font-size: 20px;
+            font-size: 24px;
         }
         .github-link a:hover {
             text-decoration: underline;
             color: #0056b3;
         }
         .github-link img {
-            width: 24px;
-            height: 24px;
+            width: 28px;
+            height: 28px;
             margin-right: 8px;
         }
 
@@ -145,7 +148,7 @@
                 <button class="next-page">Next</button>
             </div>
         </div>
-        <div class="project" data-pdf="Virtual therapy agent/Virtual therapy agent.pdf">
+        <div class="project last-project" data-pdf="Virtual therapy agent/Virtual therapy agent.pdf">
             <h3>Virtual Therapy Agent</h3>
             <div class="pdf-container"></div>
             <div class="download"><a href="https://raw.githubusercontent.com/harriskstan/projects/refs/heads/main/Virtual%20therapy%20agent/Virtual%20therapy%20agent.pdf" download>Download / View PDF</a></div>
